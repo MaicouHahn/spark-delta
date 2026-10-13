@@ -1,0 +1,1001 @@
+cd_cliente,nm_cliente,cpf,email,cidade,uf,dt_cadastro
+1,Natália Fernandes Ribeiro,17839084700,natalia.ribeiro1@email.com,Curitiba,PR,2023-09-08
+2,Rodrigo Carvalho Gomes,17711592124,rodrigo.gomes2@email.com,São Paulo,SP,2024-07-02
+3,Vanessa Monteiro Alves,56984789611,vanessa.alves3@email.com,Campinas,SP,2025-10-13
+4,Vanessa Hahn Alves,36736576615,vanessa.alves4@email.com,Campinas,SP,2023-05-25
+5,Larissa Machado Nascimento,27111161528,larissa.nascimento5@email.com,Araranguá,SC,2021-05-03
+6,Sabrina Alves Alves,16560494519,sabrina.alves6@email.com,Araranguá,SC,2023-11-06
+7,Gabriela Pereira Machado,31585149368,gabriela.machado7@email.com,Porto Alegre,RS,2025-04-21
+8,Camila Mendes Mendes,80940244550,camila.mendes8@email.com,São Paulo,SP,2022-01-07
+9,Rodrigo Pereira Monteiro,61201836675,rodrigo.monteiro9@email.com,São Paulo,SP,2021-11-19
+10,Lucas Lima Fortuna,99102290147,lucas.fortuna10@email.com,Araranguá,SC,2024-09-17
+11,Matheus Rocha Mendes,64381561497,matheus.mendes11@email.com,Porto Alegre,RS,2023-12-16
+12,Vinícius Lima Souza,69003432445,vinicius.souza12@email.com,Tubarão,SC,2021-09-03
+13,Ana Rocha Fortuna,22683885160,ana.fortuna13@email.com,Blumenau,SC,2023-06-13
+14,Ana Martins Oliveira,59696641605,ana.oliveira14@email.com,Belo Horizonte,MG,2021-12-18
+15,Leonardo Mendes Martins,51613696816,leonardo.martins15@email.com,Belo Horizonte,MG,2025-11-18
+16,João Fortuna Araújo,52181883552,joao.araujo16@email.com,Tubarão,SC,2022-04-29
+17,Daniel Pereira Nascimento,29212779979,daniel.nascimento17@email.com,Tubarão,SC,2024-08-09
+18,Vanessa Mendes Araújo,52717744905,vanessa.araujo18@email.com,Belo Horizonte,MG,2023-11-06
+19,Carla Lima Martins,00541199867,carla.martins19@email.com,Porto Alegre,RS,2024-04-03
+20,Rafael Fortuna Souza,93597820715,rafael.souza20@email.com,Porto Alegre,RS,2025-01-02
+21,Carla Ribeiro Hahn,03778892554,carla.hahn21@email.com,Joinville,SC,2023-03-05
+22,Matheus Araújo Machado,05151864492,matheus.machado22@email.com,Curitiba,PR,2022-11-14
+23,Carla Monteiro Machado,54629148652,carla.machado23@email.com,Joinville,SC,2024-10-04
+24,Beatriz Fortuna Machado,16850542357,beatriz.machado24@email.com,Caxias do Sul,RS,2022-01-29
+25,Henrique Pereira Pereira,41888059296,henrique.pereira25@email.com,Florianópolis,SC,2021-11-12
+26,Felipe Costa Damazio,92706537947,felipe.damazio26@email.com,Rio de Janeiro,RJ,2022-04-25
+27,Rafael Almeida Lima,73597746886,rafael.lima27@email.com,Rio de Janeiro,RJ,2021-11-28
+28,Camila Rodrigues Mendes,40758181412,camila.mendes28@email.com,Joinville,SC,2022-07-13
+29,Natália Ribeiro Pereira,61375060685,natalia.pereira29@email.com,Belo Horizonte,MG,2022-04-28
+30,Mariana Oliveira Fernandes,05152204727,mariana.fernandes30@email.com,Tubarão,SC,2023-07-08
+31,Thiago Silva Oliveira,43289861434,thiago.oliveira31@email.com,Criciúma,SC,2021-09-07
+32,Bruno Almeida Gomes,97117980893,bruno.gomes32@email.com,São Paulo,SP,2025-01-11
+33,Eduarda Lima Gomes,95396218518,eduarda.gomes33@email.com,Criciúma,SC,2024-01-20
+34,Paula Ribeiro Alves,67065405153,paula.alves34@email.com,Criciúma,SC,2025-02-10
+35,Vinícius Hahn Santos,95205852772,vinicius.santos35@email.com,Rio de Janeiro,RJ,2025-07-20
+36,Eduarda Oliveira Damazio,70430305486,eduarda.damazio36@email.com,Rio de Janeiro,RJ,2025-07-28
+37,Rafael Rocha Nascimento,34505415667,rafael.nascimento37@email.com,Criciúma,SC,2023-03-03
+38,Larissa Costa Rocha,75841616928,larissa.rocha38@email.com,Campinas,SP,2022-08-25
+39,Larissa Santos Oliveira,44796275705,larissa.oliveira39@email.com,Araranguá,SC,2024-06-13
+40,Matheus Nascimento Hahn,01658202970,matheus.hahn40@email.com,Rio de Janeiro,RJ,2021-09-16
+41,Carla Almeida Hahn,56909275571,carla.hahn41@email.com,Araranguá,SC,2024-03-21
+42,Eduarda Ribeiro Fernandes,54310278681,eduarda.fernandes42@email.com,Blumenau,SC,2022-06-21
+43,Juliana Nascimento Damazio,39473121727,juliana.damazio43@email.com,Porto Alegre,RS,2021-06-29
+44,Leonardo Machado Araújo,51884422583,leonardo.araujo44@email.com,São Paulo,SP,2021-09-06
+45,Gabriela Pereira Almeida,70589578291,gabriela.almeida45@email.com,Rio de Janeiro,RJ,2021-05-15
+46,João Carvalho Damazio,78669125177,joao.damazio46@email.com,Campinas,SP,2024-10-24
+47,Paula Fernandes Pereira,89226801824,paula.pereira47@email.com,Belo Horizonte,MG,2021-12-04
+48,Felipe Araújo Damazio,58414384249,felipe.damazio48@email.com,Tubarão,SC,2023-12-29
+49,Carla Ribeiro Hahn,99229959001,carla.hahn49@email.com,Joinville,SC,2021-04-04
+50,Vanessa Monteiro Nascimento,39690784473,vanessa.nascimento50@email.com,São Paulo,SP,2025-07-07
+51,Leonardo Machado Carvalho,71027677359,leonardo.carvalho51@email.com,Içara,SC,2021-10-22
+52,Larissa Damazio Araújo,56258815371,larissa.araujo52@email.com,Campinas,SP,2022-07-02
+53,Natália Almeida Pereira,04696325953,natalia.pereira53@email.com,Florianópolis,SC,2025-04-12
+54,Felipe Rocha Ribeiro,74701687339,felipe.ribeiro54@email.com,Porto Alegre,RS,2022-12-24
+55,Bruno Souza Lima,97480162456,bruno.lima55@email.com,Porto Alegre,RS,2023-01-20
+56,Bruno Carvalho Souza,83584168784,bruno.souza56@email.com,Curitiba,PR,2025-08-18
+57,Thiago Machado Mendes,21655852398,thiago.mendes57@email.com,Florianópolis,SC,2023-04-03
+58,Paula Souza Souza,25787298259,paula.souza58@email.com,Criciúma,SC,2022-10-15
+59,Felipe Carvalho Mendes,49588879470,felipe.mendes59@email.com,Campinas,SP,2023-01-25
+60,Larissa Machado Santos,94097499309,larissa.santos60@email.com,Blumenau,SC,2023-09-11
+61,Felipe Ribeiro Hahn,96230913075,felipe.hahn61@email.com,Campinas,SP,2023-05-08
+62,Eduarda Gomes Damazio,68970283857,eduarda.damazio62@email.com,Tubarão,SC,2023-12-13
+63,Mariana Araújo Costa,85854973348,mariana.costa63@email.com,Porto Alegre,RS,2022-09-04
+64,Henrique Lima Lima,37575844198,henrique.lima64@email.com,Campinas,SP,2023-02-17
+65,Fernanda Carvalho Fernandes,24041574733,fernanda.fernandes65@email.com,Rio de Janeiro,RJ,2025-08-23
+66,Rafael Nascimento Alves,42199330833,rafael.alves66@email.com,Campinas,SP,2021-04-18
+67,Daniel Gomes Araújo,71208267734,daniel.araujo67@email.com,Campinas,SP,2022-10-20
+68,João Hahn Souza,19380262067,joao.souza68@email.com,Rio de Janeiro,RJ,2022-01-17
+69,Pedro Fortuna Lima,04991547887,pedro.lima69@email.com,Criciúma,SC,2025-12-27
+70,Eduarda Ribeiro Martins,31527420549,eduarda.martins70@email.com,Içara,SC,2024-10-13
+71,Juliana Rodrigues Costa,66851612275,juliana.costa71@email.com,Curitiba,PR,2022-05-24
+72,Ana Nascimento Carvalho,74549904530,ana.carvalho72@email.com,Tubarão,SC,2024-09-29
+73,Daniel Martins Lima,68414593327,daniel.lima73@email.com,Joinville,SC,2021-11-10
+74,Natália Fortuna Mendes,68783391878,natalia.mendes74@email.com,Araranguá,SC,2024-12-12
+75,Lucas Oliveira Monteiro,08839822587,lucas.monteiro75@email.com,Florianópolis,SC,2021-08-27
+76,Vinícius Rodrigues Damazio,71870728679,vinicius.damazio76@email.com,Curitiba,PR,2021-04-29
+77,Rafael Martins Machado,40640391065,rafael.machado77@email.com,Rio de Janeiro,RJ,2024-12-05
+78,Carla Alves Souza,70462265676,carla.souza78@email.com,Florianópolis,SC,2023-02-09
+79,Carla Machado Machado,82512868230,carla.machado79@email.com,Belo Horizonte,MG,2025-03-29
+80,Ana Lima Martins,86863375243,ana.martins80@email.com,São Paulo,SP,2025-11-28
+81,Gustavo Santos Souza,69033119079,gustavo.souza81@email.com,Rio de Janeiro,RJ,2024-10-08
+82,Beatriz Souza Almeida,06738302843,beatriz.almeida82@email.com,Campinas,SP,2025-07-29
+83,Pedro Fortuna Monteiro,99534283644,pedro.monteiro83@email.com,Araranguá,SC,2021-05-05
+84,Rafael Monteiro Fortuna,68705685662,rafael.fortuna84@email.com,Joinville,SC,2022-09-07
+85,Mariana Costa Alves,33427086688,mariana.alves85@email.com,Porto Alegre,RS,2021-10-02
+86,Mariana Almeida Nascimento,51751830469,mariana.nascimento86@email.com,Tubarão,SC,2024-05-19
+87,Bruno Oliveira Rodrigues,98373540331,bruno.rodrigues87@email.com,Rio de Janeiro,RJ,2025-03-10
+88,Juliana Rocha Almeida,93638546785,juliana.almeida88@email.com,Campinas,SP,2022-09-24
+89,Isabela Fernandes Ribeiro,71753556093,isabela.ribeiro89@email.com,Porto Alegre,RS,2025-02-27
+90,Eduarda Silva Nascimento,99642353693,eduarda.nascimento90@email.com,Caxias do Sul,RS,2023-10-20
+91,Rafael Hahn Machado,47772522872,rafael.machado91@email.com,Araranguá,SC,2025-12-27
+92,Rafael Hahn Souza,01006231203,rafael.souza92@email.com,Caxias do Sul,RS,2023-11-02
+93,Natália Fernandes Souza,97700886008,natalia.souza93@email.com,Curitiba,PR,2025-01-19
+94,Isabela Alves Lima,86211823398,isabela.lima94@email.com,Criciúma,SC,2022-06-01
+95,Camila Fernandes Nascimento,61567933410,camila.nascimento95@email.com,Rio de Janeiro,RJ,2021-07-11
+96,Mariana Carvalho Carvalho,70021765918,mariana.carvalho96@email.com,Caxias do Sul,RS,2021-03-29
+97,Henrique Rodrigues Damazio,74014890250,henrique.damazio97@email.com,Curitiba,PR,2022-03-01
+98,Sabrina Pereira Damazio,61429396856,sabrina.damazio98@email.com,Belo Horizonte,MG,2025-03-28
+99,Gustavo Pereira Damazio,18501631599,gustavo.damazio99@email.com,Campinas,SP,2024-05-04
+100,Mariana Araújo Silva,47735866296,mariana.silva100@email.com,São Paulo,SP,2021-06-25
+101,Juliana Mendes Lima,31142626551,juliana.lima101@email.com,Rio de Janeiro,RJ,2021-07-07
+102,Ana Lima Martins,41212678886,ana.martins102@email.com,Araranguá,SC,2021-07-31
+103,Ana Oliveira Fernandes,19956046618,ana.fernandes103@email.com,Caxias do Sul,RS,2022-05-13
+104,Sabrina Ribeiro Costa,62244472126,sabrina.costa104@email.com,São Paulo,SP,2022-07-20
+105,Matheus Lima Rocha,15437993712,matheus.rocha105@email.com,Rio de Janeiro,RJ,2022-09-16
+106,Ana Carvalho Araújo,96575692459,ana.araujo106@email.com,Belo Horizonte,MG,2024-11-24
+107,Gabriela Rocha Araújo,65479356465,gabriela.araujo107@email.com,Joinville,SC,2021-08-22
+108,Pedro Monteiro Rodrigues,82807374167,pedro.rodrigues108@email.com,Curitiba,PR,2021-10-13
+109,Vanessa Lima Almeida,26617979688,vanessa.almeida109@email.com,Içara,SC,2025-11-17
+110,Beatriz Gomes Alves,58911352909,beatriz.alves110@email.com,Criciúma,SC,2024-08-14
+111,Vinícius Hahn Carvalho,56101438889,vinicius.carvalho111@email.com,Rio de Janeiro,RJ,2024-11-09
+112,Sabrina Almeida Martins,67982507146,sabrina.martins112@email.com,Araranguá,SC,2021-06-25
+113,Daniel Fortuna Pereira,45738757177,daniel.pereira113@email.com,Araranguá,SC,2022-10-16
+114,Carla Lima Souza,10512382825,carla.souza114@email.com,Rio de Janeiro,RJ,2024-02-21
+115,Matheus Martins Almeida,62266093796,matheus.almeida115@email.com,Rio de Janeiro,RJ,2023-03-08
+116,Ana Damazio Rodrigues,41918255371,ana.rodrigues116@email.com,Tubarão,SC,2022-06-22
+117,Vinícius Rocha Ribeiro,59696915579,vinicius.ribeiro117@email.com,São Paulo,SP,2021-12-20
+118,Camila Machado Damazio,49912513412,camila.damazio118@email.com,Rio de Janeiro,RJ,2023-02-04
+119,Beatriz Pereira Ribeiro,69296627828,beatriz.ribeiro119@email.com,Blumenau,SC,2021-12-08
+120,Otávio Lima Pereira,57905072368,otavio.pereira120@email.com,Joinville,SC,2023-11-02
+121,Vanessa Rocha Gomes,76772190340,vanessa.gomes121@email.com,São Paulo,SP,2022-07-17
+122,Henrique Alves Lima,79788191485,henrique.lima122@email.com,Joinville,SC,2024-01-16
+123,Camila Souza Fortuna,83613407451,camila.fortuna123@email.com,Porto Alegre,RS,2023-06-19
+124,Rodrigo Santos Almeida,95962923309,rodrigo.almeida124@email.com,Tubarão,SC,2022-12-20
+125,Rafael Nascimento Mendes,25449481260,rafael.mendes125@email.com,Caxias do Sul,RS,2022-07-22
+126,Rodrigo Hahn Pereira,23253672946,rodrigo.pereira126@email.com,Campinas,SP,2023-02-08
+127,Natália Oliveira Hahn,16845775901,natalia.hahn127@email.com,Rio de Janeiro,RJ,2025-02-05
+128,Natália Hahn Machado,51863637454,natalia.machado128@email.com,Campinas,SP,2022-11-23
+129,Rafael Monteiro Pereira,75001701277,rafael.pereira129@email.com,Curitiba,PR,2021-01-02
+130,Matheus Rodrigues Damazio,42415415206,matheus.damazio130@email.com,Joinville,SC,2024-07-05
+131,João Fortuna Damazio,36110371293,joao.damazio131@email.com,Rio de Janeiro,RJ,2023-11-30
+132,Vinícius Martins Silva,51627136111,vinicius.silva132@email.com,Criciúma,SC,2022-10-04
+133,Lucas Lima Pereira,22189092753,lucas.pereira133@email.com,Blumenau,SC,2024-07-10
+134,Gustavo Pereira Gomes,73112196565,gustavo.gomes134@email.com,Curitiba,PR,2025-06-09
+135,Eduarda Almeida Nascimento,13899940438,eduarda.nascimento135@email.com,São Paulo,SP,2024-05-27
+136,Paula Rodrigues Fortuna,40376137918,paula.fortuna136@email.com,Blumenau,SC,2025-12-26
+137,Ana Fernandes Araújo,69658271091,ana.araujo137@email.com,Joinville,SC,2021-01-29
+138,Isabela Rodrigues Souza,68486661889,isabela.souza138@email.com,Criciúma,SC,2021-11-09
+139,Isabela Oliveira Lima,83285691463,isabela.lima139@email.com,Florianópolis,SC,2021-04-29
+140,Henrique Oliveira Gomes,79904210202,henrique.gomes140@email.com,Florianópolis,SC,2023-10-14
+141,Lucas Ribeiro Ribeiro,42524105648,lucas.ribeiro141@email.com,Rio de Janeiro,RJ,2021-05-11
+142,Isabela Damazio Monteiro,17785079252,isabela.monteiro142@email.com,São Paulo,SP,2022-06-07
+143,Juliana Santos Monteiro,13800030756,juliana.monteiro143@email.com,São Paulo,SP,2021-11-04
+144,Felipe Souza Alves,63536541951,felipe.alves144@email.com,Rio de Janeiro,RJ,2023-10-26
+145,Vinícius Souza Costa,80617445187,vinicius.costa145@email.com,Tubarão,SC,2021-01-17
+146,Lucas Rodrigues Lima,49375973832,lucas.lima146@email.com,Curitiba,PR,2021-01-14
+147,Pedro Gomes Silva,85050641383,pedro.silva147@email.com,Tubarão,SC,2023-05-10
+148,Otávio Souza Pereira,41038657191,otavio.pereira148@email.com,Campinas,SP,2023-11-02
+149,Eduarda Hahn Carvalho,99062344565,eduarda.carvalho149@email.com,Florianópolis,SC,2022-10-14
+150,Natália Nascimento Almeida,32912127756,natalia.almeida150@email.com,Florianópolis,SC,2021-09-05
+151,Rafael Fernandes Rodrigues,47411249035,rafael.rodrigues151@email.com,Porto Alegre,RS,2021-10-31
+152,Carla Damazio Almeida,68044206788,carla.almeida152@email.com,Araranguá,SC,2022-05-27
+153,Daniel Martins Santos,21003236519,daniel.santos153@email.com,Rio de Janeiro,RJ,2024-04-15
+154,Isabela Oliveira Silva,37215107029,isabela.silva154@email.com,Florianópolis,SC,2023-06-07
+155,Camila Fortuna Carvalho,06625324472,camila.carvalho155@email.com,Porto Alegre,RS,2021-03-12
+156,Thiago Mendes Mendes,47687014626,thiago.mendes156@email.com,Tubarão,SC,2022-02-13
+157,Vanessa Ribeiro Almeida,80657875985,vanessa.almeida157@email.com,São Paulo,SP,2023-03-07
+158,Isabela Costa Silva,93040785932,isabela.silva158@email.com,Araranguá,SC,2021-07-25
+159,Henrique Machado Almeida,80396522395,henrique.almeida159@email.com,Içara,SC,2025-07-10
+160,Gustavo Damazio Fernandes,05992937842,gustavo.fernandes160@email.com,Curitiba,PR,2023-10-02
+161,Bruno Oliveira Souza,93087059325,bruno.souza161@email.com,Tubarão,SC,2025-01-08
+162,Felipe Araújo Souza,29218515691,felipe.souza162@email.com,Criciúma,SC,2022-11-21
+163,João Araújo Pereira,67528953926,joao.pereira163@email.com,Joinville,SC,2022-09-21
+164,Gustavo Damazio Lima,20969029593,gustavo.lima164@email.com,Joinville,SC,2024-08-02
+165,Sabrina Santos Rocha,51355215704,sabrina.rocha165@email.com,Joinville,SC,2022-03-06
+166,Henrique Damazio Oliveira,41006762676,henrique.oliveira166@email.com,Araranguá,SC,2022-12-21
+167,Rafael Carvalho Santos,79327104054,rafael.santos167@email.com,Belo Horizonte,MG,2021-08-03
+168,Carla Araújo Costa,21815997062,carla.costa168@email.com,Blumenau,SC,2024-05-28
+169,Fernanda Gomes Costa,15336884443,fernanda.costa169@email.com,Criciúma,SC,2021-07-16
+170,Bruno Carvalho Monteiro,72050614973,bruno.monteiro170@email.com,Caxias do Sul,RS,2021-07-18
+171,Ana Rodrigues Costa,41714677418,ana.costa171@email.com,São Paulo,SP,2023-03-05
+172,Felipe Fernandes Carvalho,27047743490,felipe.carvalho172@email.com,Araranguá,SC,2021-11-06
+173,Juliana Damazio Machado,15869380686,juliana.machado173@email.com,Florianópolis,SC,2024-01-02
+174,Vinícius Rocha Monteiro,74160898992,vinicius.monteiro174@email.com,Tubarão,SC,2021-09-04
+175,Juliana Martins Costa,33206163294,juliana.costa175@email.com,Joinville,SC,2022-10-17
+176,Pedro Fortuna Oliveira,68685487099,pedro.oliveira176@email.com,Florianópolis,SC,2023-12-07
+177,Leonardo Gomes Santos,22999119148,leonardo.santos177@email.com,Blumenau,SC,2025-12-08
+178,Lucas Gomes Nascimento,79970246299,lucas.nascimento178@email.com,Blumenau,SC,2024-10-26
+179,Beatriz Carvalho Souza,53074505444,beatriz.souza179@email.com,Blumenau,SC,2025-09-23
+180,Otávio Damazio Machado,32475469137,otavio.machado180@email.com,Florianópolis,SC,2022-03-09
+181,Pedro Gomes Fortuna,85082148628,pedro.fortuna181@email.com,Porto Alegre,RS,2025-12-06
+182,Sabrina Silva Costa,30307053457,sabrina.costa182@email.com,Tubarão,SC,2023-11-01
+183,Mariana Hahn Santos,03579727985,mariana.santos183@email.com,São Paulo,SP,2022-12-07
+184,Felipe Nascimento Fortuna,14060293333,felipe.fortuna184@email.com,Belo Horizonte,MG,2022-07-06
+185,Vanessa Gomes Ribeiro,07229034944,vanessa.ribeiro185@email.com,Criciúma,SC,2023-05-18
+186,Fernanda Carvalho Fernandes,43748969108,fernanda.fernandes186@email.com,Porto Alegre,RS,2024-09-18
+187,Camila Fernandes Alves,99441715454,camila.alves187@email.com,São Paulo,SP,2022-06-19
+188,Vanessa Damazio Hahn,32830965207,vanessa.hahn188@email.com,Içara,SC,2022-08-29
+189,Isabela Gomes Carvalho,09935387584,isabela.carvalho189@email.com,Blumenau,SC,2025-09-28
+190,Felipe Machado Alves,41724825135,felipe.alves190@email.com,Joinville,SC,2022-04-03
+191,Gustavo Lima Gomes,55494717099,gustavo.gomes191@email.com,Rio de Janeiro,RJ,2024-06-25
+192,Carla Rocha Rodrigues,16846022356,carla.rodrigues192@email.com,Caxias do Sul,RS,2024-03-12
+193,Fernanda Martins Pereira,21752500743,fernanda.pereira193@email.com,Araranguá,SC,2025-04-08
+194,Juliana Costa Monteiro,27129666676,juliana.monteiro194@email.com,Rio de Janeiro,RJ,2021-01-10
+195,Bruno Alves Rodrigues,50583003354,bruno.rodrigues195@email.com,Campinas,SP,2021-09-22
+196,Daniel Carvalho Ribeiro,42104478985,daniel.ribeiro196@email.com,Curitiba,PR,2023-06-08
+197,Fernanda Machado Pereira,75326033230,fernanda.pereira197@email.com,Araranguá,SC,2024-04-22
+198,Paula Costa Santos,06489090100,paula.santos198@email.com,Araranguá,SC,2024-11-13
+199,Daniel Gomes Martins,18472304618,daniel.martins199@email.com,Blumenau,SC,2022-07-07
+200,Thiago Mendes Damazio,61891411739,thiago.damazio200@email.com,Joinville,SC,2022-02-14
+201,Juliana Nascimento Ribeiro,56420873753,juliana.ribeiro201@email.com,Tubarão,SC,2021-01-06
+202,Ana Machado Oliveira,97218114374,ana.oliveira202@email.com,Florianópolis,SC,2022-06-25
+203,Natália Souza Santos,20455611002,natalia.santos203@email.com,Belo Horizonte,MG,2024-09-20
+204,Vanessa Costa Araújo,79415521667,vanessa.araujo204@email.com,Araranguá,SC,2022-07-11
+205,Camila Carvalho Damazio,76212021697,camila.damazio205@email.com,Belo Horizonte,MG,2025-07-02
+206,Sabrina Machado Martins,96590277167,sabrina.martins206@email.com,Joinville,SC,2021-04-05
+207,Carla Nascimento Hahn,08993588916,carla.hahn207@email.com,Araranguá,SC,2024-09-17
+208,Gustavo Almeida Rocha,62890028772,gustavo.rocha208@email.com,Araranguá,SC,2021-06-03
+209,Juliana Rocha Araújo,54083866317,juliana.araujo209@email.com,Tubarão,SC,2023-06-29
+210,Leonardo Monteiro Martins,77517016608,leonardo.martins210@email.com,Florianópolis,SC,2024-01-30
+211,Ana Oliveira Mendes,48837550375,ana.mendes211@email.com,Curitiba,PR,2024-02-22
+212,Juliana Mendes Mendes,57113055488,juliana.mendes212@email.com,Porto Alegre,RS,2023-02-05
+213,Beatriz Santos Souza,72614933163,beatriz.souza213@email.com,Joinville,SC,2023-07-26
+214,Camila Rodrigues Damazio,16091779827,camila.damazio214@email.com,Araranguá,SC,2021-01-09
+215,Paula Fortuna Souza,69782922169,paula.souza215@email.com,Caxias do Sul,RS,2024-05-26
+216,Fernanda Araújo Ribeiro,69346547226,fernanda.ribeiro216@email.com,Blumenau,SC,2024-05-18
+217,Beatriz Fortuna Ribeiro,85833394522,beatriz.ribeiro217@email.com,Içara,SC,2023-10-29
+218,Rafael Damazio Hahn,15879968460,rafael.hahn218@email.com,Araranguá,SC,2023-12-07
+219,Daniel Silva Carvalho,00342442043,daniel.carvalho219@email.com,Joinville,SC,2025-03-24
+220,Rafael Souza Fernandes,71983863840,rafael.fernandes220@email.com,Belo Horizonte,MG,2023-02-21
+221,Mariana Gomes Machado,80043973598,mariana.machado221@email.com,Araranguá,SC,2025-02-21
+222,Thiago Rodrigues Fortuna,47212281606,thiago.fortuna222@email.com,Tubarão,SC,2022-07-26
+223,Rafael Nascimento Pereira,94057202590,rafael.pereira223@email.com,Joinville,SC,2025-05-04
+224,Pedro Hahn Mendes,47985158328,pedro.mendes224@email.com,Belo Horizonte,MG,2021-05-20
+225,Leonardo Ribeiro Costa,88615335554,leonardo.costa225@email.com,Blumenau,SC,2022-03-24
+226,Juliana Mendes Ribeiro,80157399305,juliana.ribeiro226@email.com,Porto Alegre,RS,2023-02-21
+227,Pedro Santos Carvalho,84085887704,pedro.carvalho227@email.com,Içara,SC,2024-08-27
+228,Gabriela Araújo Ribeiro,12880133613,gabriela.ribeiro228@email.com,Florianópolis,SC,2024-01-07
+229,Camila Damazio Fortuna,61207501102,camila.fortuna229@email.com,Rio de Janeiro,RJ,2025-06-15
+230,Isabela Alves Oliveira,34667665061,isabela.oliveira230@email.com,Curitiba,PR,2024-01-01
+231,Ana Hahn Fortuna,19015814491,ana.fortuna231@email.com,Curitiba,PR,2022-07-31
+232,Juliana Martins Carvalho,07283268424,juliana.carvalho232@email.com,Blumenau,SC,2024-10-19
+233,Fernanda Fortuna Hahn,08821009968,fernanda.hahn233@email.com,Araranguá,SC,2024-01-27
+234,Carla Lima Rodrigues,53682223943,carla.rodrigues234@email.com,Campinas,SP,2021-08-23
+235,Felipe Machado Monteiro,08781414139,felipe.monteiro235@email.com,Belo Horizonte,MG,2023-09-25
+236,Larissa Fernandes Pereira,31491357759,larissa.pereira236@email.com,São Paulo,SP,2024-09-12
+237,João Damazio Monteiro,99556205336,joao.monteiro237@email.com,Joinville,SC,2022-07-21
+238,Camila Fernandes Pereira,57775478129,camila.pereira238@email.com,São Paulo,SP,2021-06-17
+239,Camila Nascimento Pereira,34110809969,camila.pereira239@email.com,Caxias do Sul,RS,2022-03-12
+240,Pedro Souza Alves,88725639427,pedro.alves240@email.com,Içara,SC,2023-10-24
+241,Paula Oliveira Carvalho,80392827229,paula.carvalho241@email.com,Araranguá,SC,2024-03-04
+242,Vinícius Pereira Fortuna,75037314530,vinicius.fortuna242@email.com,Campinas,SP,2024-10-01
+243,Gabriela Ribeiro Fernandes,77005184498,gabriela.fernandes243@email.com,Blumenau,SC,2024-03-13
+244,Felipe Carvalho Hahn,59184638655,felipe.hahn244@email.com,Blumenau,SC,2023-09-25
+245,Leonardo Rocha Mendes,82723184322,leonardo.mendes245@email.com,Criciúma,SC,2021-11-19
+246,Lucas Mendes Damazio,13651777392,lucas.damazio246@email.com,Belo Horizonte,MG,2024-08-18
+247,Camila Gomes Silva,02992280920,camila.silva247@email.com,Tubarão,SC,2021-12-07
+248,Isabela Costa Ribeiro,99041379772,isabela.ribeiro248@email.com,Blumenau,SC,2022-03-26
+249,Camila Gomes Mendes,92984257991,camila.mendes249@email.com,Joinville,SC,2022-04-16
+250,Mariana Carvalho Pereira,03886291279,mariana.pereira250@email.com,Florianópolis,SC,2024-05-13
+251,Bruno Alves Ribeiro,11729806865,bruno.ribeiro251@email.com,Rio de Janeiro,RJ,2025-11-27
+252,Bruno Damazio Ribeiro,37659916247,bruno.ribeiro252@email.com,Blumenau,SC,2025-04-18
+253,Henrique Oliveira Lima,86430098180,henrique.lima253@email.com,Curitiba,PR,2023-02-08
+254,Vanessa Rodrigues Damazio,56512694486,vanessa.damazio254@email.com,Rio de Janeiro,RJ,2024-03-02
+255,Lucas Mendes Nascimento,63688725887,lucas.nascimento255@email.com,São Paulo,SP,2022-06-04
+256,João Monteiro Fernandes,62137213865,joao.fernandes256@email.com,Rio de Janeiro,RJ,2025-06-29
+257,Rafael Mendes Damazio,02601279611,rafael.damazio257@email.com,São Paulo,SP,2022-06-23
+258,Henrique Fernandes Oliveira,06698490277,henrique.oliveira258@email.com,Curitiba,PR,2021-01-22
+259,Gabriela Machado Ribeiro,30988392053,gabriela.ribeiro259@email.com,Içara,SC,2024-09-03
+260,Ana Costa Oliveira,65669380118,ana.oliveira260@email.com,Içara,SC,2022-08-06
+261,Gustavo Alves Monteiro,54393769042,gustavo.monteiro261@email.com,Araranguá,SC,2023-04-14
+262,Paula Santos Alves,84518489476,paula.alves262@email.com,Florianópolis,SC,2024-02-28
+263,Otávio Almeida Araújo,77907141633,otavio.araujo263@email.com,Rio de Janeiro,RJ,2025-06-27
+264,Larissa Gomes Fernandes,80434165182,larissa.fernandes264@email.com,Caxias do Sul,RS,2023-09-03
+265,Larissa Fernandes Rodrigues,42373334333,larissa.rodrigues265@email.com,Curitiba,PR,2025-09-06
+266,Henrique Mendes Fernandes,11179080759,henrique.fernandes266@email.com,Joinville,SC,2022-10-08
+267,Otávio Monteiro Nascimento,28463920867,otavio.nascimento267@email.com,Porto Alegre,RS,2024-01-13
+268,Bruno Ribeiro Fernandes,27187500369,bruno.fernandes268@email.com,Blumenau,SC,2021-07-26
+269,Larissa Fernandes Mendes,42843479552,larissa.mendes269@email.com,Belo Horizonte,MG,2023-10-19
+270,Matheus Rodrigues Gomes,55647292931,matheus.gomes270@email.com,Campinas,SP,2025-01-16
+271,Isabela Almeida Alves,63227026728,isabela.alves271@email.com,Blumenau,SC,2023-12-30
+272,Gustavo Araújo Rocha,48906120347,gustavo.rocha272@email.com,Içara,SC,2025-09-15
+273,Vanessa Santos Martins,54558845061,vanessa.martins273@email.com,Campinas,SP,2022-12-21
+274,Rodrigo Machado Mendes,99824558771,rodrigo.mendes274@email.com,Tubarão,SC,2023-02-20
+275,Thiago Lima Martins,22569961125,thiago.martins275@email.com,São Paulo,SP,2022-04-13
+276,Larissa Araújo Hahn,49647598762,larissa.hahn276@email.com,Içara,SC,2022-01-12
+277,Rodrigo Silva Pereira,34132611178,rodrigo.pereira277@email.com,Campinas,SP,2021-04-21
+278,Ana Carvalho Ribeiro,11492164334,ana.ribeiro278@email.com,Rio de Janeiro,RJ,2023-06-27
+279,Vanessa Pereira Pereira,20055778487,vanessa.pereira279@email.com,Caxias do Sul,RS,2021-10-04
+280,Beatriz Alves Costa,97968845783,beatriz.costa280@email.com,Curitiba,PR,2025-07-07
+281,Carla Martins Lima,64240082547,carla.lima281@email.com,Araranguá,SC,2024-01-01
+282,Ana Damazio Rocha,74064930853,ana.rocha282@email.com,Rio de Janeiro,RJ,2023-04-24
+283,Fernanda Alves Gomes,32663416389,fernanda.gomes283@email.com,Blumenau,SC,2025-07-12
+284,Beatriz Machado Nascimento,84631224179,beatriz.nascimento284@email.com,Içara,SC,2023-07-17
+285,Isabela Damazio Mendes,35020802144,isabela.mendes285@email.com,Porto Alegre,RS,2021-09-14
+286,Beatriz Martins Fortuna,31207356475,beatriz.fortuna286@email.com,Criciúma,SC,2023-08-08
+287,Beatriz Souza Araújo,20461872346,beatriz.araujo287@email.com,Florianópolis,SC,2025-08-24
+288,Ana Santos Damazio,67303718376,ana.damazio288@email.com,Tubarão,SC,2024-10-27
+289,João Araújo Costa,08814743503,joao.costa289@email.com,São Paulo,SP,2021-08-20
+290,Henrique Hahn Gomes,02491630097,henrique.gomes290@email.com,Araranguá,SC,2024-11-10
+291,Thiago Pereira Fernandes,13271950052,thiago.fernandes291@email.com,Rio de Janeiro,RJ,2024-12-07
+292,Rafael Santos Pereira,35857306524,rafael.pereira292@email.com,Porto Alegre,RS,2021-03-22
+293,Otávio Damazio Martins,48739285574,otavio.martins293@email.com,Caxias do Sul,RS,2025-11-12
+294,Camila Mendes Alves,18274485708,camila.alves294@email.com,Joinville,SC,2023-02-16
+295,Gustavo Costa Silva,59351863878,gustavo.silva295@email.com,Curitiba,PR,2021-11-12
+296,Thiago Lima Araújo,51181022031,thiago.araujo296@email.com,Blumenau,SC,2023-09-22
+297,Gabriela Santos Souza,67899405391,gabriela.souza297@email.com,Curitiba,PR,2021-01-27
+298,Pedro Rodrigues Hahn,17058650948,pedro.hahn298@email.com,Porto Alegre,RS,2021-03-25
+299,Gustavo Oliveira Lima,38113863383,gustavo.lima299@email.com,Florianópolis,SC,2024-03-13
+300,Vanessa Costa Alves,86195761228,vanessa.alves300@email.com,Campinas,SP,2023-04-03
+301,Paula Araújo Machado,89755855665,paula.machado301@email.com,Joinville,SC,2024-05-31
+302,Henrique Monteiro Alves,68457760049,henrique.alves302@email.com,Tubarão,SC,2021-02-03
+303,Paula Pereira Lima,43350488899,paula.lima303@email.com,Criciúma,SC,2021-11-13
+304,Daniel Souza Martins,22459334419,daniel.martins304@email.com,Araranguá,SC,2023-03-30
+305,Sabrina Rodrigues Fortuna,57279194096,sabrina.fortuna305@email.com,Florianópolis,SC,2021-06-10
+306,Juliana Souza Araújo,66139060480,juliana.araujo306@email.com,Araranguá,SC,2022-10-16
+307,Rafael Monteiro Pereira,83206799813,rafael.pereira307@email.com,Araranguá,SC,2023-06-04
+308,João Carvalho Pereira,51790864168,joao.pereira308@email.com,Joinville,SC,2023-06-09
+309,Juliana Damazio Pereira,27837693898,juliana.pereira309@email.com,Rio de Janeiro,RJ,2022-05-20
+310,Henrique Oliveira Nascimento,65911665535,henrique.nascimento310@email.com,Rio de Janeiro,RJ,2022-12-07
+311,Thiago Hahn Silva,42597927033,thiago.silva311@email.com,Rio de Janeiro,RJ,2024-11-04
+312,Lucas Pereira Fortuna,11039240514,lucas.fortuna312@email.com,Belo Horizonte,MG,2023-07-11
+313,Otávio Silva Araújo,83388487920,otavio.araujo313@email.com,Tubarão,SC,2023-02-11
+314,Sabrina Machado Ribeiro,42043940701,sabrina.ribeiro314@email.com,Criciúma,SC,2023-03-07
+315,Vinícius Nascimento Machado,51046368157,vinicius.machado315@email.com,Belo Horizonte,MG,2025-11-11
+316,Thiago Alves Oliveira,38780038457,thiago.oliveira316@email.com,Joinville,SC,2023-03-17
+317,Gustavo Costa Silva,55438404608,gustavo.silva317@email.com,Araranguá,SC,2022-07-28
+318,Henrique Pereira Araújo,21689363926,henrique.araujo318@email.com,Blumenau,SC,2022-10-02
+319,Pedro Mendes Araújo,82329832482,pedro.araujo319@email.com,Porto Alegre,RS,2023-05-31
+320,Pedro Pereira Hahn,25188125205,pedro.hahn320@email.com,Curitiba,PR,2025-12-08
+321,Matheus Gomes Lima,42312209949,matheus.lima321@email.com,Porto Alegre,RS,2024-03-07
+322,Thiago Almeida Mendes,30517289752,thiago.mendes322@email.com,Tubarão,SC,2025-10-12
+323,Mariana Rocha Rocha,23306046333,mariana.rocha323@email.com,Joinville,SC,2021-05-16
+324,Felipe Martins Mendes,57366096569,felipe.mendes324@email.com,Porto Alegre,RS,2025-03-01
+325,Sabrina Mendes Alves,08177038860,sabrina.alves325@email.com,Caxias do Sul,RS,2024-02-17
+326,Mariana Ribeiro Hahn,34764472649,mariana.hahn326@email.com,Criciúma,SC,2021-04-22
+327,Beatriz Ribeiro Pereira,71812982665,beatriz.pereira327@email.com,Porto Alegre,RS,2023-07-13
+328,Ana Costa Martins,37145211175,ana.martins328@email.com,Curitiba,PR,2021-06-24
+329,Paula Damazio Carvalho,89268602592,paula.carvalho329@email.com,Campinas,SP,2021-11-29
+330,Rodrigo Pereira Costa,06447421230,rodrigo.costa330@email.com,Rio de Janeiro,RJ,2024-06-29
+331,Juliana Nascimento Silva,77809733977,juliana.silva331@email.com,Porto Alegre,RS,2023-04-20
+332,Natália Oliveira Mendes,03849830220,natalia.mendes332@email.com,Curitiba,PR,2024-08-30
+333,Lucas Souza Pereira,09945101622,lucas.pereira333@email.com,Belo Horizonte,MG,2024-10-08
+334,João Mendes Machado,99827950145,joao.machado334@email.com,Campinas,SP,2023-01-25
+335,Fernanda Carvalho Oliveira,68147214586,fernanda.oliveira335@email.com,Rio de Janeiro,RJ,2023-12-11
+336,Gabriela Damazio Rodrigues,01981794695,gabriela.rodrigues336@email.com,Curitiba,PR,2022-06-16
+337,Paula Monteiro Mendes,29978772934,paula.mendes337@email.com,Araranguá,SC,2022-02-01
+338,Ana Santos Silva,13966055830,ana.silva338@email.com,Porto Alegre,RS,2024-08-04
+339,Gabriela Damazio Lima,14488501556,gabriela.lima339@email.com,Içara,SC,2025-01-23
+340,Sabrina Mendes Silva,23557702727,sabrina.silva340@email.com,Belo Horizonte,MG,2025-11-07
+341,Rafael Araújo Martins,60849588039,rafael.martins341@email.com,Rio de Janeiro,RJ,2024-11-04
+342,Larissa Fernandes Oliveira,40568299629,larissa.oliveira342@email.com,Joinville,SC,2021-08-28
+343,Rodrigo Lima Damazio,50461735743,rodrigo.damazio343@email.com,Belo Horizonte,MG,2023-12-12
+344,João Costa Santos,03178078235,joao.santos344@email.com,Araranguá,SC,2023-09-18
+345,Gustavo Ribeiro Lima,52182307681,gustavo.lima345@email.com,Rio de Janeiro,RJ,2021-01-09
+346,João Souza Machado,91570184094,joao.machado346@email.com,Belo Horizonte,MG,2024-08-01
+347,Fernanda Rodrigues Araújo,34485714224,fernanda.araujo347@email.com,Tubarão,SC,2021-08-23
+348,Ana Mendes Alves,13858542493,ana.alves348@email.com,Caxias do Sul,RS,2021-12-17
+349,Carla Lima Mendes,87020701601,carla.mendes349@email.com,Araranguá,SC,2023-05-24
+350,Mariana Costa Damazio,97954538179,mariana.damazio350@email.com,Curitiba,PR,2021-09-27
+351,Carla Damazio Martins,74773329456,carla.martins351@email.com,Florianópolis,SC,2022-01-11
+352,Beatriz Machado Araújo,57701715772,beatriz.araujo352@email.com,Rio de Janeiro,RJ,2022-08-02
+353,Juliana Fernandes Mendes,28161581487,juliana.mendes353@email.com,Curitiba,PR,2023-04-01
+354,Sabrina Gomes Almeida,38276153966,sabrina.almeida354@email.com,Curitiba,PR,2024-03-07
+355,Leonardo Araújo Alves,32197199758,leonardo.alves355@email.com,Campinas,SP,2021-07-19
+356,Camila Martins Costa,61919657013,camila.costa356@email.com,Içara,SC,2025-08-01
+357,Eduarda Monteiro Hahn,02278469973,eduarda.hahn357@email.com,Rio de Janeiro,RJ,2022-02-26
+358,Vinícius Araújo Lima,46519098624,vinicius.lima358@email.com,Curitiba,PR,2021-05-08
+359,Lucas Alves Souza,85140369656,lucas.souza359@email.com,Criciúma,SC,2023-04-12
+360,Mariana Gomes Alves,27238656242,mariana.alves360@email.com,Tubarão,SC,2021-10-03
+361,Ana Oliveira Hahn,27621267969,ana.hahn361@email.com,Criciúma,SC,2022-01-04
+362,Natália Ribeiro Gomes,76532690973,natalia.gomes362@email.com,Caxias do Sul,RS,2024-12-29
+363,Paula Nascimento Gomes,95009751971,paula.gomes363@email.com,Caxias do Sul,RS,2021-10-18
+364,Gustavo Fortuna Ribeiro,47818913718,gustavo.ribeiro364@email.com,Belo Horizonte,MG,2025-06-23
+365,Sabrina Lima Mendes,58077879565,sabrina.mendes365@email.com,Criciúma,SC,2025-06-23
+366,João Lima Costa,94940792904,joao.costa366@email.com,Criciúma,SC,2025-07-15
+367,Gustavo Mendes Silva,71281442944,gustavo.silva367@email.com,Içara,SC,2025-10-23
+368,Isabela Silva Fortuna,92927524372,isabela.fortuna368@email.com,Florianópolis,SC,2025-06-26
+369,Paula Souza Araújo,29276637239,paula.araujo369@email.com,Florianópolis,SC,2025-02-12
+370,Camila Fernandes Souza,41027674783,camila.souza370@email.com,São Paulo,SP,2023-02-17
+371,Vinícius Damazio Carvalho,42860476580,vinicius.carvalho371@email.com,Porto Alegre,RS,2021-07-19
+372,Pedro Alves Hahn,69454414967,pedro.hahn372@email.com,Araranguá,SC,2025-05-03
+373,Vinícius Fortuna Almeida,93852580010,vinicius.almeida373@email.com,Campinas,SP,2023-04-23
+374,Daniel Ribeiro Santos,75344300910,daniel.santos374@email.com,São Paulo,SP,2024-05-01
+375,Vinícius Rodrigues Mendes,11192692124,vinicius.mendes375@email.com,São Paulo,SP,2022-08-27
+376,Natália Machado Oliveira,74654214066,natalia.oliveira376@email.com,São Paulo,SP,2022-11-13
+377,Bruno Nascimento Nascimento,71739627128,bruno.nascimento377@email.com,Joinville,SC,2025-04-24
+378,Matheus Rodrigues Mendes,17410119470,matheus.mendes378@email.com,São Paulo,SP,2023-10-17
+379,Eduarda Hahn Hahn,06425690877,eduarda.hahn379@email.com,Criciúma,SC,2023-06-13
+380,Mariana Fortuna Oliveira,30671985546,mariana.oliveira380@email.com,Caxias do Sul,RS,2021-04-24
+381,Vanessa Hahn Oliveira,85174328063,vanessa.oliveira381@email.com,Araranguá,SC,2022-09-05
+382,Beatriz Carvalho Santos,57173203093,beatriz.santos382@email.com,São Paulo,SP,2023-09-29
+383,Mariana Oliveira Alves,47870050506,mariana.alves383@email.com,São Paulo,SP,2021-08-31
+384,Gabriela Hahn Machado,78293102707,gabriela.machado384@email.com,Caxias do Sul,RS,2024-06-20
+385,Bruno Almeida Damazio,20204179291,bruno.damazio385@email.com,São Paulo,SP,2025-08-02
+386,Camila Santos Santos,99313656519,camila.santos386@email.com,Porto Alegre,RS,2024-01-23
+387,Eduarda Araújo Rodrigues,09251142625,eduarda.rodrigues387@email.com,Rio de Janeiro,RJ,2024-02-08
+388,Felipe Martins Almeida,02196207100,felipe.almeida388@email.com,Curitiba,PR,2022-01-03
+389,Pedro Oliveira Damazio,94672324876,pedro.damazio389@email.com,São Paulo,SP,2022-05-05
+390,Felipe Mendes Damazio,92791456083,felipe.damazio390@email.com,Criciúma,SC,2022-01-29
+391,Daniel Ribeiro Santos,58837340312,daniel.santos391@email.com,Curitiba,PR,2024-11-04
+392,Rodrigo Rocha Rocha,20054364597,rodrigo.rocha392@email.com,Joinville,SC,2021-03-30
+393,Daniel Fortuna Souza,22078113799,daniel.souza393@email.com,Caxias do Sul,RS,2022-10-30
+394,Matheus Rodrigues Fortuna,53153136363,matheus.fortuna394@email.com,São Paulo,SP,2021-05-31
+395,Otávio Monteiro Rocha,62397265273,otavio.rocha395@email.com,Criciúma,SC,2024-07-18
+396,Lucas Nascimento Rodrigues,20904217762,lucas.rodrigues396@email.com,Araranguá,SC,2025-04-07
+397,Larissa Almeida Lima,29298316873,larissa.lima397@email.com,Curitiba,PR,2024-04-26
+398,Otávio Martins Nascimento,63356939290,otavio.nascimento398@email.com,Criciúma,SC,2023-05-06
+399,Bruno Souza Rocha,80686717731,bruno.rocha399@email.com,Campinas,SP,2024-02-18
+400,Juliana Silva Damazio,63254310742,juliana.damazio400@email.com,Campinas,SP,2024-12-11
+401,Natália Monteiro Fortuna,07726257016,natalia.fortuna401@email.com,Curitiba,PR,2024-11-15
+402,Larissa Ribeiro Souza,64989319508,larissa.souza402@email.com,Içara,SC,2024-10-13
+403,Lucas Souza Santos,57905528183,lucas.santos403@email.com,Blumenau,SC,2021-10-11
+404,Larissa Almeida Alves,79335548640,larissa.alves404@email.com,Florianópolis,SC,2021-05-10
+405,Lucas Fernandes Martins,88178847951,lucas.martins405@email.com,Porto Alegre,RS,2022-01-21
+406,Fernanda Martins Oliveira,62411241272,fernanda.oliveira406@email.com,Florianópolis,SC,2025-11-27
+407,Gabriela Ribeiro Hahn,46827567043,gabriela.hahn407@email.com,Criciúma,SC,2021-05-09
+408,Ana Almeida Ribeiro,56955798877,ana.ribeiro408@email.com,São Paulo,SP,2022-09-15
+409,Sabrina Pereira Lima,43754025472,sabrina.lima409@email.com,Joinville,SC,2024-06-20
+410,Pedro Costa Damazio,42222310592,pedro.damazio410@email.com,Caxias do Sul,RS,2023-06-22
+411,Isabela Fernandes Costa,80552578284,isabela.costa411@email.com,Tubarão,SC,2021-09-06
+412,Pedro Silva Carvalho,27520885474,pedro.carvalho412@email.com,Porto Alegre,RS,2025-03-25
+413,Sabrina Machado Pereira,97517028140,sabrina.pereira413@email.com,Rio de Janeiro,RJ,2023-04-03
+414,Thiago Almeida Martins,15093983430,thiago.martins414@email.com,Araranguá,SC,2021-06-21
+415,Rafael Martins Machado,18637599805,rafael.machado415@email.com,São Paulo,SP,2023-03-26
+416,Eduarda Damazio Gomes,65045547813,eduarda.gomes416@email.com,Araranguá,SC,2025-01-30
+417,Fernanda Martins Fortuna,74266299123,fernanda.fortuna417@email.com,Blumenau,SC,2022-09-14
+418,Otávio Ribeiro Araújo,96106462879,otavio.araujo418@email.com,Florianópolis,SC,2025-03-27
+419,Pedro Pereira Rodrigues,64870494787,pedro.rodrigues419@email.com,Joinville,SC,2022-04-05
+420,Ana Silva Pereira,47146273014,ana.pereira420@email.com,Içara,SC,2023-10-07
+421,Carla Mendes Fortuna,97964715890,carla.fortuna421@email.com,Araranguá,SC,2025-09-28
+422,Isabela Costa Monteiro,25725204565,isabela.monteiro422@email.com,Criciúma,SC,2021-04-10
+423,João Lima Ribeiro,18321928554,joao.ribeiro423@email.com,São Paulo,SP,2022-07-10
+424,Vinícius Damazio Damazio,18952028457,vinicius.damazio424@email.com,Araranguá,SC,2023-04-24
+425,Larissa Costa Santos,28338988816,larissa.santos425@email.com,Tubarão,SC,2023-08-02
+426,Pedro Oliveira Santos,20754527985,pedro.santos426@email.com,Belo Horizonte,MG,2021-12-19
+427,Beatriz Lima Silva,13223423216,beatriz.silva427@email.com,Campinas,SP,2024-11-15
+428,Juliana Santos Oliveira,76031089071,juliana.oliveira428@email.com,Criciúma,SC,2022-06-03
+429,Bruno Oliveira Lima,01193932501,bruno.lima429@email.com,São Paulo,SP,2021-10-26
+430,Rodrigo Fortuna Nascimento,55289389119,rodrigo.nascimento430@email.com,Curitiba,PR,2025-04-13
+431,Ana Ribeiro Rodrigues,34280138759,ana.rodrigues431@email.com,Campinas,SP,2022-01-15
+432,Natália Machado Santos,56638361517,natalia.santos432@email.com,Joinville,SC,2021-08-14
+433,Paula Pereira Rocha,54801571647,paula.rocha433@email.com,Rio de Janeiro,RJ,2024-05-14
+434,Gustavo Lima Machado,73864631752,gustavo.machado434@email.com,Belo Horizonte,MG,2021-01-27
+435,Vinícius Rocha Machado,67811266912,vinicius.machado435@email.com,Florianópolis,SC,2021-05-13
+436,Lucas Rodrigues Araújo,96136749946,lucas.araujo436@email.com,Tubarão,SC,2022-12-31
+437,Otávio Machado Mendes,78427114773,otavio.mendes437@email.com,Blumenau,SC,2024-07-10
+438,Eduarda Silva Santos,01702695249,eduarda.santos438@email.com,Campinas,SP,2024-06-30
+439,Daniel Oliveira Machado,87734778485,daniel.machado439@email.com,Rio de Janeiro,RJ,2025-07-16
+440,Rodrigo Alves Alves,06167567700,rodrigo.alves440@email.com,Criciúma,SC,2021-12-29
+441,Rafael Machado Lima,27624671978,rafael.lima441@email.com,Campinas,SP,2024-11-04
+442,Rafael Monteiro Rocha,82806479695,rafael.rocha442@email.com,Porto Alegre,RS,2025-04-19
+443,João Araújo Souza,90255905616,joao.souza443@email.com,Criciúma,SC,2022-12-08
+444,Lucas Gomes Fernandes,33349114152,lucas.fernandes444@email.com,Criciúma,SC,2021-02-10
+445,Rafael Araújo Souza,69864079056,rafael.souza445@email.com,Porto Alegre,RS,2024-03-14
+446,Mariana Araújo Monteiro,71357852945,mariana.monteiro446@email.com,Florianópolis,SC,2023-06-12
+447,Gabriela Rocha Hahn,18344049639,gabriela.hahn447@email.com,Belo Horizonte,MG,2025-03-02
+448,Carla Damazio Monteiro,95419876351,carla.monteiro448@email.com,Florianópolis,SC,2024-08-27
+449,Camila Lima Ribeiro,46853664987,camila.ribeiro449@email.com,Rio de Janeiro,RJ,2024-10-07
+450,Juliana Alves Costa,82973748969,juliana.costa450@email.com,Criciúma,SC,2025-01-28
+451,Vanessa Souza Ribeiro,57232466513,vanessa.ribeiro451@email.com,Tubarão,SC,2025-09-29
+452,Matheus Nascimento Lima,24936312303,matheus.lima452@email.com,São Paulo,SP,2025-06-21
+453,Camila Lima Martins,86603242044,camila.martins453@email.com,Porto Alegre,RS,2024-09-10
+454,Rafael Costa Hahn,07001594165,rafael.hahn454@email.com,Belo Horizonte,MG,2024-10-07
+455,Vinícius Oliveira Carvalho,23198189847,vinicius.carvalho455@email.com,Belo Horizonte,MG,2025-12-17
+456,Carla Almeida Mendes,55963632123,carla.mendes456@email.com,Florianópolis,SC,2022-07-17
+457,Natália Gomes Nascimento,90785158673,natalia.nascimento457@email.com,Belo Horizonte,MG,2022-07-23
+458,Fernanda Pereira Fernandes,54090034864,fernanda.fernandes458@email.com,Porto Alegre,RS,2024-08-01
+459,Beatriz Fernandes Machado,83760644134,beatriz.machado459@email.com,Florianópolis,SC,2022-03-07
+460,Rodrigo Costa Martins,56041776561,rodrigo.martins460@email.com,São Paulo,SP,2025-08-16
+461,Felipe Damazio Nascimento,15698570027,felipe.nascimento461@email.com,Caxias do Sul,RS,2025-06-09
+462,Vanessa Pereira Silva,34591123829,vanessa.silva462@email.com,Blumenau,SC,2024-11-05
+463,Matheus Araújo Martins,24295431652,matheus.martins463@email.com,Porto Alegre,RS,2023-03-17
+464,Fernanda Carvalho Monteiro,00893173420,fernanda.monteiro464@email.com,Tubarão,SC,2023-04-02
+465,Thiago Gomes Mendes,21529108677,thiago.mendes465@email.com,Içara,SC,2021-08-31
+466,Henrique Damazio Rodrigues,44762639343,henrique.rodrigues466@email.com,Tubarão,SC,2023-05-07
+467,Felipe Gomes Pereira,44397359710,felipe.pereira467@email.com,Criciúma,SC,2023-08-19
+468,Eduarda Araújo Damazio,36694118005,eduarda.damazio468@email.com,Blumenau,SC,2022-04-26
+469,Otávio Fernandes Mendes,90048964652,otavio.mendes469@email.com,São Paulo,SP,2024-02-20
+470,Bruno Monteiro Costa,28757215862,bruno.costa470@email.com,Içara,SC,2022-06-18
+471,Daniel Araújo Souza,74564494856,daniel.souza471@email.com,Joinville,SC,2021-12-04
+472,Larissa Fortuna Rocha,28703203207,larissa.rocha472@email.com,Rio de Janeiro,RJ,2022-06-17
+473,Felipe Damazio Martins,17075877712,felipe.martins473@email.com,Blumenau,SC,2021-09-11
+474,Lucas Oliveira Rodrigues,42284993908,lucas.rodrigues474@email.com,Belo Horizonte,MG,2025-04-20
+475,Sabrina Costa Gomes,37150416591,sabrina.gomes475@email.com,Florianópolis,SC,2025-09-11
+476,Larissa Pereira Silva,77749050975,larissa.silva476@email.com,Florianópolis,SC,2025-02-07
+477,Gustavo Monteiro Pereira,04501896164,gustavo.pereira477@email.com,Tubarão,SC,2021-12-31
+478,Henrique Carvalho Oliveira,32664214764,henrique.oliveira478@email.com,Criciúma,SC,2024-11-03
+479,Thiago Pereira Fernandes,15837767499,thiago.fernandes479@email.com,São Paulo,SP,2023-05-17
+480,Carla Gomes Fernandes,26610857327,carla.fernandes480@email.com,Curitiba,PR,2023-12-16
+481,Vanessa Hahn Ribeiro,47617422438,vanessa.ribeiro481@email.com,Florianópolis,SC,2023-05-26
+482,João Monteiro Souza,10818661794,joao.souza482@email.com,Caxias do Sul,RS,2022-12-29
+483,Isabela Monteiro Oliveira,80172260164,isabela.oliveira483@email.com,Rio de Janeiro,RJ,2022-10-05
+484,Sabrina Fortuna Martins,79452321941,sabrina.martins484@email.com,Rio de Janeiro,RJ,2023-06-08
+485,Rafael Silva Silva,10277697499,rafael.silva485@email.com,Blumenau,SC,2023-01-09
+486,Beatriz Machado Damazio,64122031030,beatriz.damazio486@email.com,São Paulo,SP,2022-03-05
+487,Otávio Hahn Pereira,36831472760,otavio.pereira487@email.com,São Paulo,SP,2021-08-27
+488,Felipe Pereira Fortuna,77707933496,felipe.fortuna488@email.com,Campinas,SP,2021-04-15
+489,Larissa Silva Santos,66799840767,larissa.santos489@email.com,São Paulo,SP,2023-11-18
+490,Sabrina Fortuna Mendes,73080695814,sabrina.mendes490@email.com,São Paulo,SP,2024-08-20
+491,Matheus Rocha Santos,95760243757,matheus.santos491@email.com,Porto Alegre,RS,2022-04-21
+492,Paula Almeida Monteiro,59724665729,paula.monteiro492@email.com,São Paulo,SP,2022-03-01
+493,João Damazio Fortuna,72232971674,joao.fortuna493@email.com,Florianópolis,SC,2022-04-26
+494,Gabriela Alves Souza,54522801561,gabriela.souza494@email.com,Criciúma,SC,2024-06-18
+495,Henrique Santos Alves,74550842891,henrique.alves495@email.com,Tubarão,SC,2024-12-17
+496,Bruno Martins Martins,11991808121,bruno.martins496@email.com,Belo Horizonte,MG,2025-11-19
+497,Gabriela Fernandes Costa,47871255213,gabriela.costa497@email.com,Campinas,SP,2023-06-19
+498,Matheus Silva Almeida,75482145653,matheus.almeida498@email.com,Belo Horizonte,MG,2021-11-07
+499,Juliana Ribeiro Gomes,32666785072,juliana.gomes499@email.com,Rio de Janeiro,RJ,2025-04-27
+500,Ana Damazio Ribeiro,15562606029,ana.ribeiro500@email.com,Florianópolis,SC,2021-04-29
+501,Vanessa Damazio Machado,46684550489,vanessa.machado501@email.com,Caxias do Sul,RS,2021-10-28
+502,Beatriz Carvalho Martins,38997563410,beatriz.martins502@email.com,São Paulo,SP,2024-01-06
+503,Larissa Carvalho Fortuna,28843188485,larissa.fortuna503@email.com,Campinas,SP,2025-03-31
+504,Vanessa Costa Silva,89434681054,vanessa.silva504@email.com,Criciúma,SC,2024-07-08
+505,Paula Fernandes Santos,17490753998,paula.santos505@email.com,Criciúma,SC,2025-09-26
+506,Thiago Almeida Fernandes,49268315893,thiago.fernandes506@email.com,Içara,SC,2025-08-13
+507,Juliana Fernandes Martins,26611062737,juliana.martins507@email.com,Florianópolis,SC,2021-06-09
+508,Lucas Machado Ribeiro,98864976776,lucas.ribeiro508@email.com,Blumenau,SC,2025-08-15
+509,Felipe Pereira Ribeiro,77288137702,felipe.ribeiro509@email.com,Joinville,SC,2024-02-19
+510,Lucas Santos Mendes,61159408215,lucas.mendes510@email.com,Belo Horizonte,MG,2022-09-17
+511,Lucas Lima Lima,02296044327,lucas.lima511@email.com,Porto Alegre,RS,2021-01-05
+512,Daniel Alves Fernandes,06794975679,daniel.fernandes512@email.com,Florianópolis,SC,2021-09-29
+513,Juliana Pereira Ribeiro,77725199663,juliana.ribeiro513@email.com,São Paulo,SP,2023-03-21
+514,Larissa Alves Souza,74120948181,larissa.souza514@email.com,São Paulo,SP,2022-01-30
+515,Thiago Alves Monteiro,09837801820,thiago.monteiro515@email.com,Rio de Janeiro,RJ,2022-07-18
+516,Leonardo Rodrigues Almeida,97189569070,leonardo.almeida516@email.com,Belo Horizonte,MG,2022-11-28
+517,Matheus Costa Gomes,85641118242,matheus.gomes517@email.com,Criciúma,SC,2022-01-10
+518,Isabela Oliveira Pereira,62095200461,isabela.pereira518@email.com,Içara,SC,2022-10-18
+519,Eduarda Gomes Araújo,61033993788,eduarda.araujo519@email.com,Içara,SC,2023-02-28
+520,Daniel Nascimento Souza,78617063048,daniel.souza520@email.com,Araranguá,SC,2024-04-15
+521,Vinícius Santos Almeida,82496718325,vinicius.almeida521@email.com,Rio de Janeiro,RJ,2024-01-12
+522,Felipe Almeida Alves,87007942007,felipe.alves522@email.com,Blumenau,SC,2022-07-14
+523,Thiago Nascimento Machado,53984028914,thiago.machado523@email.com,Blumenau,SC,2021-07-03
+524,Mariana Damazio Santos,28463985547,mariana.santos524@email.com,Belo Horizonte,MG,2022-07-14
+525,Henrique Machado Araújo,37950209700,henrique.araujo525@email.com,Araranguá,SC,2024-10-09
+526,Felipe Gomes Alves,76811807156,felipe.alves526@email.com,Campinas,SP,2025-08-22
+527,Thiago Fernandes Carvalho,01753703045,thiago.carvalho527@email.com,Joinville,SC,2022-01-28
+528,Carla Mendes Hahn,33750479303,carla.hahn528@email.com,Içara,SC,2025-08-09
+529,Vanessa Carvalho Santos,49872839992,vanessa.santos529@email.com,Belo Horizonte,MG,2021-05-14
+530,Sabrina Pereira Fortuna,24938430894,sabrina.fortuna530@email.com,Florianópolis,SC,2024-10-26
+531,Rafael Martins Silva,05664187758,rafael.silva531@email.com,Blumenau,SC,2025-04-04
+532,Bruno Fortuna Almeida,46875063519,bruno.almeida532@email.com,Criciúma,SC,2025-07-13
+533,Ana Fortuna Almeida,61332541107,ana.almeida533@email.com,Campinas,SP,2023-06-04
+534,Leonardo Silva Monteiro,54317350583,leonardo.monteiro534@email.com,Rio de Janeiro,RJ,2021-05-30
+535,Juliana Mendes Mendes,17911006512,juliana.mendes535@email.com,Porto Alegre,RS,2021-05-07
+536,Pedro Martins Souza,96110804661,pedro.souza536@email.com,Içara,SC,2024-06-18
+537,Juliana Gomes Almeida,99076769915,juliana.almeida537@email.com,Belo Horizonte,MG,2024-08-26
+538,Vinícius Silva Martins,59311091939,vinicius.martins538@email.com,Caxias do Sul,RS,2021-09-16
+539,Vanessa Ribeiro Nascimento,67972320024,vanessa.nascimento539@email.com,Araranguá,SC,2024-04-12
+540,Matheus Ribeiro Hahn,54982274954,matheus.hahn540@email.com,Rio de Janeiro,RJ,2023-01-26
+541,Ana Ribeiro Monteiro,20388065333,ana.monteiro541@email.com,São Paulo,SP,2025-05-28
+542,Carla Araújo Rodrigues,77959959465,carla.rodrigues542@email.com,São Paulo,SP,2021-11-29
+543,Daniel Martins Souza,30337933756,daniel.souza543@email.com,Porto Alegre,RS,2022-02-25
+544,Mariana Costa Silva,01508124739,mariana.silva544@email.com,Araranguá,SC,2025-04-17
+545,Lucas Souza Silva,34234258323,lucas.silva545@email.com,Tubarão,SC,2021-02-14
+546,Felipe Nascimento Santos,26153473552,felipe.santos546@email.com,Criciúma,SC,2023-12-16
+547,Leonardo Mendes Gomes,11223386559,leonardo.gomes547@email.com,Campinas,SP,2023-05-30
+548,Vanessa Almeida Souza,99384253042,vanessa.souza548@email.com,Rio de Janeiro,RJ,2025-10-10
+549,Paula Monteiro Rocha,17912868578,paula.rocha549@email.com,Tubarão,SC,2023-08-09
+550,Felipe Araújo Damazio,87774969033,felipe.damazio550@email.com,Araranguá,SC,2022-02-20
+551,Natália Almeida Carvalho,46692548121,natalia.carvalho551@email.com,Tubarão,SC,2022-08-28
+552,Natália Ribeiro Fernandes,90789567766,natalia.fernandes552@email.com,Tubarão,SC,2023-01-23
+553,Leonardo Rocha Araújo,60273415148,leonardo.araujo553@email.com,Içara,SC,2023-11-17
+554,Rafael Hahn Oliveira,43111508353,rafael.oliveira554@email.com,Rio de Janeiro,RJ,2024-10-14
+555,Larissa Nascimento Lima,43928404456,larissa.lima555@email.com,Campinas,SP,2023-04-11
+556,Camila Monteiro Hahn,78263337389,camila.hahn556@email.com,Criciúma,SC,2025-05-29
+557,Rafael Martins Fortuna,75153663778,rafael.fortuna557@email.com,Belo Horizonte,MG,2021-03-03
+558,Lucas Pereira Monteiro,24075536668,lucas.monteiro558@email.com,Belo Horizonte,MG,2022-09-06
+559,Larissa Monteiro Silva,02259999663,larissa.silva559@email.com,Curitiba,PR,2023-03-12
+560,Carla Alves Carvalho,71597412182,carla.carvalho560@email.com,Tubarão,SC,2021-03-07
+561,Camila Damazio Mendes,02316433481,camila.mendes561@email.com,Porto Alegre,RS,2023-07-21
+562,Bruno Fernandes Ribeiro,25662128671,bruno.ribeiro562@email.com,Criciúma,SC,2023-03-08
+563,Fernanda Rodrigues Pereira,34672994938,fernanda.pereira563@email.com,Belo Horizonte,MG,2025-01-07
+564,Vinícius Martins Nascimento,02716938597,vinicius.nascimento564@email.com,Tubarão,SC,2023-08-01
+565,Natália Monteiro Souza,14754692632,natalia.souza565@email.com,Campinas,SP,2024-06-19
+566,Gustavo Gomes Martins,29160324841,gustavo.martins566@email.com,Blumenau,SC,2024-11-30
+567,Gustavo Fortuna Rodrigues,68151185672,gustavo.rodrigues567@email.com,Porto Alegre,RS,2022-06-02
+568,Gabriela Ribeiro Souza,01765636004,gabriela.souza568@email.com,Porto Alegre,RS,2021-08-23
+569,Beatriz Pereira Araújo,77711837274,beatriz.araujo569@email.com,São Paulo,SP,2025-09-20
+570,Felipe Costa Silva,12418621042,felipe.silva570@email.com,Curitiba,PR,2023-06-22
+571,Lucas Costa Rodrigues,08370816470,lucas.rodrigues571@email.com,Campinas,SP,2024-05-10
+572,Ana Souza Carvalho,33533106005,ana.carvalho572@email.com,Rio de Janeiro,RJ,2025-08-08
+573,Gabriela Machado Machado,31220681558,gabriela.machado573@email.com,Florianópolis,SC,2024-07-07
+574,Gabriela Mendes Rodrigues,66133155206,gabriela.rodrigues574@email.com,Caxias do Sul,RS,2024-09-01
+575,Larissa Silva Carvalho,73149501364,larissa.carvalho575@email.com,Tubarão,SC,2025-04-21
+576,Thiago Rocha Santos,89241956252,thiago.santos576@email.com,Campinas,SP,2024-07-25
+577,Juliana Damazio Araújo,71509976838,juliana.araujo577@email.com,Belo Horizonte,MG,2024-04-18
+578,Beatriz Silva Almeida,91436391025,beatriz.almeida578@email.com,Criciúma,SC,2023-10-19
+579,João Rodrigues Pereira,30397524508,joao.pereira579@email.com,Blumenau,SC,2025-06-10
+580,Matheus Hahn Lima,03553380339,matheus.lima580@email.com,Rio de Janeiro,RJ,2025-11-23
+581,Mariana Ribeiro Araújo,70171302321,mariana.araujo581@email.com,Joinville,SC,2021-12-22
+582,Sabrina Alves Rodrigues,81674233629,sabrina.rodrigues582@email.com,Tubarão,SC,2022-05-25
+583,João Lima Monteiro,34715662776,joao.monteiro583@email.com,Porto Alegre,RS,2023-11-01
+584,Thiago Fortuna Gomes,27066149828,thiago.gomes584@email.com,Rio de Janeiro,RJ,2025-01-28
+585,Felipe Nascimento Carvalho,47468971527,felipe.carvalho585@email.com,Porto Alegre,RS,2022-02-05
+586,Eduarda Rodrigues Silva,85766656749,eduarda.silva586@email.com,Criciúma,SC,2021-05-26
+587,Matheus Souza Santos,92364587506,matheus.santos587@email.com,Blumenau,SC,2023-05-19
+588,Gustavo Almeida Almeida,05024972439,gustavo.almeida588@email.com,Porto Alegre,RS,2024-03-30
+589,Vinícius Costa Silva,16691836264,vinicius.silva589@email.com,Florianópolis,SC,2024-11-17
+590,João Ribeiro Alves,69461195243,joao.alves590@email.com,São Paulo,SP,2025-03-13
+591,Mariana Damazio Lima,27011686462,mariana.lima591@email.com,Criciúma,SC,2021-12-28
+592,Lucas Costa Damazio,37281793230,lucas.damazio592@email.com,Joinville,SC,2025-03-16
+593,Felipe Rodrigues Nascimento,67912141614,felipe.nascimento593@email.com,Belo Horizonte,MG,2021-05-12
+594,Larissa Silva Monteiro,77100409013,larissa.monteiro594@email.com,Tubarão,SC,2023-12-06
+595,Leonardo Silva Carvalho,84775965555,leonardo.carvalho595@email.com,Curitiba,PR,2025-07-31
+596,Henrique Fernandes Machado,69055107620,henrique.machado596@email.com,Blumenau,SC,2024-05-17
+597,Daniel Ribeiro Nascimento,35797863050,daniel.nascimento597@email.com,Campinas,SP,2024-07-21
+598,Lucas Souza Fortuna,73976915671,lucas.fortuna598@email.com,Araranguá,SC,2025-02-12
+599,Mariana Lima Mendes,28980271487,mariana.mendes599@email.com,Tubarão,SC,2021-12-11
+600,Fernanda Martins Santos,83332116025,fernanda.santos600@email.com,Porto Alegre,RS,2023-02-25
+601,Juliana Nascimento Almeida,47128715399,juliana.almeida601@email.com,Campinas,SP,2021-05-13
+602,Vanessa Araújo Carvalho,68633414111,vanessa.carvalho602@email.com,Campinas,SP,2022-11-28
+603,Gustavo Monteiro Rodrigues,19525690409,gustavo.rodrigues603@email.com,Campinas,SP,2024-01-02
+604,Gabriela Carvalho Gomes,52899316087,gabriela.gomes604@email.com,Araranguá,SC,2022-10-10
+605,Eduarda Lima Almeida,72942095481,eduarda.almeida605@email.com,Porto Alegre,RS,2022-07-15
+606,Rodrigo Damazio Monteiro,37460523302,rodrigo.monteiro606@email.com,Porto Alegre,RS,2025-10-21
+607,Otávio Fortuna Carvalho,20865675661,otavio.carvalho607@email.com,Içara,SC,2023-12-18
+608,Gustavo Lima Lima,38612590472,gustavo.lima608@email.com,Campinas,SP,2024-03-28
+609,Eduarda Martins Damazio,42333059126,eduarda.damazio609@email.com,Porto Alegre,RS,2023-05-25
+610,Vinícius Costa Souza,57201859626,vinicius.souza610@email.com,Florianópolis,SC,2022-05-17
+611,Bruno Santos Almeida,74926176475,bruno.almeida611@email.com,Blumenau,SC,2021-01-24
+612,Daniel Santos Oliveira,78309997419,daniel.oliveira612@email.com,Florianópolis,SC,2022-01-06
+613,Mariana Rocha Hahn,64921518260,mariana.hahn613@email.com,Campinas,SP,2023-03-18
+614,Rafael Alves Ribeiro,18981312920,rafael.ribeiro614@email.com,Porto Alegre,RS,2024-02-11
+615,Natália Araújo Santos,29321840118,natalia.santos615@email.com,Criciúma,SC,2022-09-04
+616,Lucas Alves Costa,03408487297,lucas.costa616@email.com,Blumenau,SC,2024-11-24
+617,Larissa Ribeiro Fernandes,88310303243,larissa.fernandes617@email.com,Curitiba,PR,2021-10-02
+618,Thiago Alves Rodrigues,54296184462,thiago.rodrigues618@email.com,Curitiba,PR,2023-03-31
+619,Natália Oliveira Nascimento,62831435989,natalia.nascimento619@email.com,São Paulo,SP,2021-12-02
+620,Matheus Pereira Araújo,66093141818,matheus.araujo620@email.com,Rio de Janeiro,RJ,2023-04-14
+621,Carla Araújo Hahn,55423401636,carla.hahn621@email.com,Florianópolis,SC,2021-08-04
+622,Leonardo Santos Costa,49718594849,leonardo.costa622@email.com,Caxias do Sul,RS,2021-07-22
+623,Fernanda Souza Costa,62588967924,fernanda.costa623@email.com,Araranguá,SC,2021-01-20
+624,Vinícius Ribeiro Damazio,22694053967,vinicius.damazio624@email.com,Joinville,SC,2022-01-10
+625,Natália Fernandes Martins,44683414651,natalia.martins625@email.com,Caxias do Sul,RS,2024-07-23
+626,Carla Oliveira Fortuna,12901487068,carla.fortuna626@email.com,Tubarão,SC,2025-02-05
+627,Eduarda Rocha Rocha,81609306853,eduarda.rocha627@email.com,Caxias do Sul,RS,2025-02-22
+628,Vinícius Ribeiro Machado,09728321528,vinicius.machado628@email.com,Curitiba,PR,2022-12-25
+629,Bruno Gomes Rocha,25153814474,bruno.rocha629@email.com,Blumenau,SC,2022-06-27
+630,Gabriela Silva Fortuna,96348079705,gabriela.fortuna630@email.com,São Paulo,SP,2021-01-13
+631,Thiago Martins Araújo,51052650167,thiago.araujo631@email.com,Içara,SC,2022-02-09
+632,Carla Ribeiro Ribeiro,61702437654,carla.ribeiro632@email.com,Joinville,SC,2023-01-17
+633,Matheus Costa Alves,41772256053,matheus.alves633@email.com,Rio de Janeiro,RJ,2021-08-15
+634,Gabriela Lima Souza,66502374167,gabriela.souza634@email.com,Joinville,SC,2024-02-01
+635,Otávio Machado Damazio,56862110225,otavio.damazio635@email.com,Joinville,SC,2023-10-22
+636,Ana Machado Almeida,56906744716,ana.almeida636@email.com,Criciúma,SC,2022-05-23
+637,Thiago Pereira Fortuna,23414363718,thiago.fortuna637@email.com,Caxias do Sul,RS,2024-06-05
+638,Felipe Rodrigues Monteiro,23126043260,felipe.monteiro638@email.com,São Paulo,SP,2024-06-16
+639,Gabriela Oliveira Souza,68433567086,gabriela.souza639@email.com,Blumenau,SC,2024-08-11
+640,Bruno Lima Santos,54563502000,bruno.santos640@email.com,Içara,SC,2024-09-14
+641,Gustavo Araújo Rodrigues,74916247554,gustavo.rodrigues641@email.com,Içara,SC,2021-08-17
+642,Daniel Machado Silva,82555989534,daniel.silva642@email.com,São Paulo,SP,2022-03-07
+643,Sabrina Carvalho Oliveira,29109337118,sabrina.oliveira643@email.com,Florianópolis,SC,2024-06-21
+644,Larissa Lima Fortuna,38202368485,larissa.fortuna644@email.com,Porto Alegre,RS,2023-01-20
+645,Natália Hahn Damazio,61768802942,natalia.damazio645@email.com,Florianópolis,SC,2022-08-17
+646,Bruno Monteiro Souza,36788127868,bruno.souza646@email.com,Rio de Janeiro,RJ,2025-05-16
+647,Mariana Carvalho Mendes,32029390878,mariana.mendes647@email.com,Içara,SC,2024-12-20
+648,Gustavo Ribeiro Nascimento,34481230834,gustavo.nascimento648@email.com,Içara,SC,2021-03-22
+649,Vanessa Pereira Nascimento,40338105955,vanessa.nascimento649@email.com,Joinville,SC,2021-06-20
+650,Beatriz Alves Nascimento,26945005342,beatriz.nascimento650@email.com,Campinas,SP,2022-06-09
+651,Ana Alves Machado,91649837354,ana.machado651@email.com,Belo Horizonte,MG,2022-02-22
+652,Sabrina Hahn Carvalho,73652717272,sabrina.carvalho652@email.com,Joinville,SC,2025-07-29
+653,Rodrigo Costa Rodrigues,72404226931,rodrigo.rodrigues653@email.com,Curitiba,PR,2021-10-21
+654,Carla Gomes Almeida,61820916601,carla.almeida654@email.com,Porto Alegre,RS,2025-08-20
+655,Ana Hahn Souza,31429001851,ana.souza655@email.com,Joinville,SC,2022-02-19
+656,Eduarda Rocha Monteiro,24572308481,eduarda.monteiro656@email.com,Porto Alegre,RS,2021-02-13
+657,Camila Souza Santos,41862030366,camila.santos657@email.com,Caxias do Sul,RS,2021-10-29
+658,Lucas Hahn Lima,61721314519,lucas.lima658@email.com,Tubarão,SC,2022-11-15
+659,Daniel Fernandes Oliveira,92268592624,daniel.oliveira659@email.com,Criciúma,SC,2024-07-03
+660,Camila Lima Fernandes,47541022526,camila.fernandes660@email.com,Florianópolis,SC,2023-07-04
+661,Gustavo Rocha Oliveira,96421522655,gustavo.oliveira661@email.com,Florianópolis,SC,2023-10-10
+662,Matheus Rocha Damazio,95236687887,matheus.damazio662@email.com,Blumenau,SC,2023-12-27
+663,Rafael Almeida Carvalho,96893135030,rafael.carvalho663@email.com,Florianópolis,SC,2023-01-13
+664,Rafael Rocha Pereira,05524728633,rafael.pereira664@email.com,Florianópolis,SC,2025-08-23
+665,Henrique Souza Fortuna,12606501917,henrique.fortuna665@email.com,Joinville,SC,2025-09-12
+666,Thiago Costa Silva,52131096227,thiago.silva666@email.com,Joinville,SC,2025-03-03
+667,Eduarda Fortuna Ribeiro,47657041200,eduarda.ribeiro667@email.com,Campinas,SP,2024-05-22
+668,Juliana Costa Ribeiro,06678498436,juliana.ribeiro668@email.com,Joinville,SC,2021-11-18
+669,Isabela Oliveira Ribeiro,23690362891,isabela.ribeiro669@email.com,Blumenau,SC,2025-07-31
+670,Beatriz Martins Rocha,66205634111,beatriz.rocha670@email.com,Araranguá,SC,2023-01-13
+671,Thiago Araújo Silva,42811390438,thiago.silva671@email.com,Tubarão,SC,2022-02-18
+672,Vanessa Souza Almeida,19909700514,vanessa.almeida672@email.com,Içara,SC,2021-01-18
+673,Lucas Lima Carvalho,35652156818,lucas.carvalho673@email.com,Caxias do Sul,RS,2025-07-12
+674,Juliana Pereira Silva,67904227113,juliana.silva674@email.com,Curitiba,PR,2025-12-17
+675,Gabriela Machado Hahn,28898572545,gabriela.hahn675@email.com,Joinville,SC,2024-06-30
+676,Rodrigo Gomes Souza,63399129710,rodrigo.souza676@email.com,Campinas,SP,2021-10-20
+677,Juliana Lima Alves,17175242149,juliana.alves677@email.com,Belo Horizonte,MG,2023-01-15
+678,Lucas Oliveira Oliveira,74747219705,lucas.oliveira678@email.com,Joinville,SC,2025-10-26
+679,João Carvalho Gomes,92758955168,joao.gomes679@email.com,Belo Horizonte,MG,2023-07-11
+680,Isabela Machado Souza,03802146296,isabela.souza680@email.com,Curitiba,PR,2025-10-15
+681,Carla Almeida Carvalho,71577871121,carla.carvalho681@email.com,Belo Horizonte,MG,2023-03-24
+682,Juliana Gomes Rodrigues,51559737147,juliana.rodrigues682@email.com,Blumenau,SC,2021-03-20
+683,Rafael Pereira Rocha,35909605673,rafael.rocha683@email.com,Joinville,SC,2021-04-21
+684,Gabriela Silva Machado,44212146147,gabriela.machado684@email.com,Blumenau,SC,2025-11-20
+685,Matheus Ribeiro Rodrigues,42016542356,matheus.rodrigues685@email.com,São Paulo,SP,2023-09-14
+686,Otávio Alves Damazio,26596089319,otavio.damazio686@email.com,Rio de Janeiro,RJ,2024-06-16
+687,Eduarda Araújo Machado,50272751648,eduarda.machado687@email.com,Belo Horizonte,MG,2025-01-19
+688,Ana Martins Pereira,79103368296,ana.pereira688@email.com,São Paulo,SP,2022-03-19
+689,Lucas Rodrigues Rodrigues,90550448177,lucas.rodrigues689@email.com,São Paulo,SP,2023-04-28
+690,Matheus Fernandes Fernandes,86851276528,matheus.fernandes690@email.com,Belo Horizonte,MG,2024-05-03
+691,Felipe Alves Gomes,46491111096,felipe.gomes691@email.com,Blumenau,SC,2021-08-01
+692,Otávio Fortuna Mendes,17890463378,otavio.mendes692@email.com,Caxias do Sul,RS,2023-02-20
+693,Daniel Rodrigues Rocha,57660538444,daniel.rocha693@email.com,Florianópolis,SC,2022-09-22
+694,Camila Gomes Machado,06000258955,camila.machado694@email.com,Tubarão,SC,2021-12-16
+695,Sabrina Gomes Almeida,63960962626,sabrina.almeida695@email.com,Caxias do Sul,RS,2022-10-14
+696,Paula Costa Gomes,12819648253,paula.gomes696@email.com,Tubarão,SC,2021-07-10
+697,Carla Silva Gomes,92098196027,carla.gomes697@email.com,Criciúma,SC,2024-07-23
+698,Vanessa Fernandes Costa,34383640412,vanessa.costa698@email.com,Tubarão,SC,2024-07-08
+699,Ana Hahn Monteiro,11791124421,ana.monteiro699@email.com,Belo Horizonte,MG,2021-06-08
+700,Otávio Fernandes Rodrigues,17061713665,otavio.rodrigues700@email.com,Blumenau,SC,2024-07-21
+701,Pedro Martins Costa,40299015579,pedro.costa701@email.com,Joinville,SC,2024-05-13
+702,Rafael Silva Costa,41390808823,rafael.costa702@email.com,Caxias do Sul,RS,2025-11-11
+703,Lucas Santos Rodrigues,52312447315,lucas.rodrigues703@email.com,Criciúma,SC,2024-12-21
+704,Rafael Hahn Lima,76863423461,rafael.lima704@email.com,Porto Alegre,RS,2024-04-10
+705,Leonardo Monteiro Lima,37676945919,leonardo.lima705@email.com,Joinville,SC,2023-02-24
+706,Matheus Rodrigues Monteiro,51720849649,matheus.monteiro706@email.com,Araranguá,SC,2025-08-21
+707,Fernanda Hahn Ribeiro,60125625313,fernanda.ribeiro707@email.com,Araranguá,SC,2024-09-07
+708,Lucas Fernandes Pereira,51050537953,lucas.pereira708@email.com,Rio de Janeiro,RJ,2024-02-25
+709,Carla Carvalho Lima,38318491966,carla.lima709@email.com,Curitiba,PR,2022-10-13
+710,Camila Araújo Rodrigues,07704611729,camila.rodrigues710@email.com,Tubarão,SC,2022-11-01
+711,Sabrina Carvalho Almeida,04090742608,sabrina.almeida711@email.com,Curitiba,PR,2023-12-17
+712,Bruno Araújo Hahn,17164455618,bruno.hahn712@email.com,Criciúma,SC,2025-05-06
+713,Larissa Rocha Mendes,64771591030,larissa.mendes713@email.com,Criciúma,SC,2025-08-18
+714,Ana Pereira Santos,63213580040,ana.santos714@email.com,Araranguá,SC,2021-08-15
+715,Bruno Lima Oliveira,59642297125,bruno.oliveira715@email.com,Içara,SC,2025-11-01
+716,Eduarda Monteiro Gomes,71883977457,eduarda.gomes716@email.com,São Paulo,SP,2022-04-08
+717,Carla Nascimento Lima,15833117030,carla.lima717@email.com,Campinas,SP,2024-10-05
+718,Gabriela Martins Carvalho,71539885472,gabriela.carvalho718@email.com,Tubarão,SC,2025-10-03
+719,Paula Santos Pereira,56798363146,paula.pereira719@email.com,Tubarão,SC,2021-12-03
+720,Vinícius Lima Monteiro,12711307240,vinicius.monteiro720@email.com,São Paulo,SP,2023-09-03
+721,Vinícius Ribeiro Martins,41815632686,vinicius.martins721@email.com,Araranguá,SC,2023-11-07
+722,Larissa Souza Martins,51066343629,larissa.martins722@email.com,Içara,SC,2022-07-20
+723,Paula Mendes Rocha,61031310094,paula.rocha723@email.com,Caxias do Sul,RS,2022-05-04
+724,Carla Alves Santos,39666134732,carla.santos724@email.com,Içara,SC,2025-05-29
+725,Gabriela Fernandes Hahn,94012897432,gabriela.hahn725@email.com,Içara,SC,2022-10-08
+726,Vinícius Oliveira Costa,57207650241,vinicius.costa726@email.com,Joinville,SC,2021-12-16
+727,Vinícius Silva Mendes,79073710094,vinicius.mendes727@email.com,Araranguá,SC,2025-09-07
+728,Henrique Ribeiro Ribeiro,21145775847,henrique.ribeiro728@email.com,Joinville,SC,2022-06-04
+729,Lucas Martins Silva,54589714802,lucas.silva729@email.com,Belo Horizonte,MG,2023-04-21
+730,Rodrigo Almeida Machado,57039653136,rodrigo.machado730@email.com,Joinville,SC,2024-08-01
+731,Daniel Nascimento Hahn,87824556964,daniel.hahn731@email.com,São Paulo,SP,2022-09-26
+732,Gabriela Souza Monteiro,59167954107,gabriela.monteiro732@email.com,Caxias do Sul,RS,2024-11-04
+733,Eduarda Martins Machado,84982474140,eduarda.machado733@email.com,Joinville,SC,2023-07-19
+734,Bruno Rodrigues Lima,91074065004,bruno.lima734@email.com,Belo Horizonte,MG,2021-10-10
+735,Lucas Lima Ribeiro,82142369143,lucas.ribeiro735@email.com,São Paulo,SP,2021-03-07
+736,Otávio Fernandes Almeida,66614494296,otavio.almeida736@email.com,Rio de Janeiro,RJ,2024-10-22
+737,Fernanda Araújo Monteiro,34268344149,fernanda.monteiro737@email.com,Joinville,SC,2024-07-10
+738,Natália Alves Costa,61287585756,natalia.costa738@email.com,Blumenau,SC,2023-08-14
+739,Matheus Gomes Martins,80612943985,matheus.martins739@email.com,Criciúma,SC,2021-09-18
+740,Thiago Alves Monteiro,06260787010,thiago.monteiro740@email.com,Içara,SC,2022-07-08
+741,Camila Hahn Santos,91497501980,camila.santos741@email.com,Araranguá,SC,2024-12-07
+742,Gabriela Ribeiro Pereira,72324407931,gabriela.pereira742@email.com,Caxias do Sul,RS,2021-05-18
+743,Ana Pereira Mendes,81331708760,ana.mendes743@email.com,Florianópolis,SC,2021-09-07
+744,João Carvalho Rocha,38497916202,joao.rocha744@email.com,Joinville,SC,2021-10-18
+745,Camila Fortuna Machado,28837744197,camila.machado745@email.com,Tubarão,SC,2023-01-23
+746,Vinícius Nascimento Carvalho,17662047196,vinicius.carvalho746@email.com,Blumenau,SC,2021-01-23
+747,Sabrina Lima Souza,97052774025,sabrina.souza747@email.com,São Paulo,SP,2023-10-23
+748,Rodrigo Ribeiro Rodrigues,86812259572,rodrigo.rodrigues748@email.com,Araranguá,SC,2022-07-25
+749,Leonardo Machado Lima,17679298842,leonardo.lima749@email.com,Blumenau,SC,2024-11-30
+750,Larissa Monteiro Monteiro,99610023117,larissa.monteiro750@email.com,Araranguá,SC,2024-10-23
+751,Otávio Araújo Almeida,31266109410,otavio.almeida751@email.com,Rio de Janeiro,RJ,2025-10-01
+752,Gustavo Oliveira Martins,59025176298,gustavo.martins752@email.com,Rio de Janeiro,RJ,2022-02-14
+753,Gabriela Nascimento Rocha,43326831901,gabriela.rocha753@email.com,Porto Alegre,RS,2022-02-21
+754,Bruno Pereira Silva,69815287339,bruno.silva754@email.com,Araranguá,SC,2025-08-22
+755,Otávio Ribeiro Fernandes,98217661912,otavio.fernandes755@email.com,Araranguá,SC,2025-05-22
+756,Paula Lima Santos,73098503446,paula.santos756@email.com,Florianópolis,SC,2024-12-11
+757,Lucas Oliveira Costa,18938984690,lucas.costa757@email.com,Içara,SC,2024-01-24
+758,Beatriz Santos Monteiro,40056435023,beatriz.monteiro758@email.com,Porto Alegre,RS,2024-01-26
+759,Camila Fortuna Araújo,03719905169,camila.araujo759@email.com,Rio de Janeiro,RJ,2025-02-23
+760,Thiago Oliveira Alves,24010783567,thiago.alves760@email.com,Porto Alegre,RS,2022-09-14
+761,Leonardo Almeida Silva,03896087066,leonardo.silva761@email.com,Criciúma,SC,2024-11-25
+762,Eduarda Gomes Damazio,82171955356,eduarda.damazio762@email.com,Blumenau,SC,2021-04-29
+763,Henrique Almeida Oliveira,03689003010,henrique.oliveira763@email.com,Curitiba,PR,2021-09-17
+764,Natália Costa Lima,55934296711,natalia.lima764@email.com,Criciúma,SC,2021-06-06
+765,Isabela Alves Rodrigues,53745843845,isabela.rodrigues765@email.com,Porto Alegre,RS,2024-11-30
+766,Rafael Ribeiro Santos,56974132834,rafael.santos766@email.com,Criciúma,SC,2025-02-28
+767,Rafael Rodrigues Santos,20377107044,rafael.santos767@email.com,Araranguá,SC,2024-04-19
+768,Mariana Lima Oliveira,49670667033,mariana.oliveira768@email.com,Criciúma,SC,2023-02-16
+769,Felipe Machado Gomes,04085095493,felipe.gomes769@email.com,Caxias do Sul,RS,2025-03-31
+770,Ana Araújo Fortuna,96601864876,ana.fortuna770@email.com,Belo Horizonte,MG,2024-03-18
+771,Gustavo Monteiro Ribeiro,26732044138,gustavo.ribeiro771@email.com,Içara,SC,2022-08-29
+772,Larissa Monteiro Carvalho,94544901495,larissa.carvalho772@email.com,Criciúma,SC,2025-09-09
+773,Isabela Costa Martins,07070578360,isabela.martins773@email.com,Porto Alegre,RS,2024-04-01
+774,Carla Nascimento Mendes,51724447232,carla.mendes774@email.com,Caxias do Sul,RS,2021-10-28
+775,Rodrigo Mendes Hahn,31028795083,rodrigo.hahn775@email.com,Criciúma,SC,2021-05-05
+776,Beatriz Nascimento Nascimento,58093511871,beatriz.nascimento776@email.com,Criciúma,SC,2023-11-13
+777,Carla Almeida Rodrigues,95616420595,carla.rodrigues777@email.com,Araranguá,SC,2022-11-18
+778,Matheus Hahn Fernandes,49025042901,matheus.fernandes778@email.com,Porto Alegre,RS,2024-06-01
+779,Gabriela Araújo Ribeiro,89536902611,gabriela.ribeiro779@email.com,Campinas,SP,2022-04-05
+780,Sabrina Ribeiro Monteiro,86818097887,sabrina.monteiro780@email.com,São Paulo,SP,2022-10-12
+781,Isabela Rodrigues Monteiro,35353751376,isabela.monteiro781@email.com,Içara,SC,2023-01-12
+782,Carla Fernandes Alves,15793763928,carla.alves782@email.com,Caxias do Sul,RS,2022-05-17
+783,Juliana Gomes Machado,29445511668,juliana.machado783@email.com,Curitiba,PR,2021-10-31
+784,Sabrina Rocha Hahn,32702164871,sabrina.hahn784@email.com,Rio de Janeiro,RJ,2021-09-16
+785,Rodrigo Souza Gomes,21288665268,rodrigo.gomes785@email.com,Criciúma,SC,2022-05-10
+786,Beatriz Lima Santos,59991015767,beatriz.santos786@email.com,Araranguá,SC,2025-02-25
+787,Camila Gomes Lima,72298120995,camila.lima787@email.com,Rio de Janeiro,RJ,2024-10-12
+788,Vanessa Martins Carvalho,72894134750,vanessa.carvalho788@email.com,Araranguá,SC,2024-03-01
+789,Paula Ribeiro Monteiro,64565220368,paula.monteiro789@email.com,Caxias do Sul,RS,2022-07-24
+790,Sabrina Mendes Araújo,54214477324,sabrina.araujo790@email.com,Florianópolis,SC,2022-06-16
+791,Thiago Santos Almeida,42138820908,thiago.almeida791@email.com,São Paulo,SP,2024-01-07
+792,Leonardo Rodrigues Silva,05349678274,leonardo.silva792@email.com,Porto Alegre,RS,2021-08-13
+793,Beatriz Damazio Santos,67412415131,beatriz.santos793@email.com,Porto Alegre,RS,2022-11-01
+794,Felipe Ribeiro Araújo,78150618538,felipe.araujo794@email.com,Içara,SC,2024-09-15
+795,Camila Hahn Souza,03296334727,camila.souza795@email.com,São Paulo,SP,2025-07-25
+796,Felipe Fortuna Rocha,23183061789,felipe.rocha796@email.com,Içara,SC,2022-03-04
+797,Beatriz Costa Souza,49693578243,beatriz.souza797@email.com,Blumenau,SC,2025-11-28
+798,João Machado Rocha,69587413146,joao.rocha798@email.com,Porto Alegre,RS,2023-07-05
+799,Larissa Almeida Machado,12751562779,larissa.machado799@email.com,Blumenau,SC,2023-04-24
+800,Vinícius Almeida Silva,48360854566,vinicius.silva800@email.com,Içara,SC,2025-07-15
+801,Natália Gomes Carvalho,04735047639,natalia.carvalho801@email.com,Içara,SC,2025-11-29
+802,Felipe Alves Rodrigues,19952980061,felipe.rodrigues802@email.com,Rio de Janeiro,RJ,2025-05-18
+803,Beatriz Araújo Fernandes,81083583286,beatriz.fernandes803@email.com,Rio de Janeiro,RJ,2025-10-27
+804,Beatriz Almeida Lima,25563830008,beatriz.lima804@email.com,Rio de Janeiro,RJ,2021-07-29
+805,Paula Carvalho Rocha,24403304166,paula.rocha805@email.com,Criciúma,SC,2021-09-26
+806,Camila Fortuna Nascimento,11186008921,camila.nascimento806@email.com,Belo Horizonte,MG,2025-02-16
+807,Sabrina Carvalho Rodrigues,94568044731,sabrina.rodrigues807@email.com,Belo Horizonte,MG,2022-06-26
+808,Vanessa Monteiro Rocha,46136847488,vanessa.rocha808@email.com,Blumenau,SC,2022-05-16
+809,Mariana Silva Rocha,65817390637,mariana.rocha809@email.com,Campinas,SP,2023-01-28
+810,Otávio Monteiro Santos,45211823793,otavio.santos810@email.com,São Paulo,SP,2021-06-21
+811,Eduarda Carvalho Mendes,78930746452,eduarda.mendes811@email.com,Belo Horizonte,MG,2021-03-16
+812,Larissa Damazio Monteiro,60438787535,larissa.monteiro812@email.com,Curitiba,PR,2023-08-03
+813,Beatriz Rocha Ribeiro,11616202812,beatriz.ribeiro813@email.com,Caxias do Sul,RS,2022-02-09
+814,Natália Santos Souza,72872866041,natalia.souza814@email.com,Blumenau,SC,2023-06-11
+815,João Fortuna Machado,85959224839,joao.machado815@email.com,Içara,SC,2025-01-03
+816,Lucas Ribeiro Mendes,77352287056,lucas.mendes816@email.com,Içara,SC,2022-01-03
+817,Eduarda Rocha Oliveira,43318751097,eduarda.oliveira817@email.com,Criciúma,SC,2024-05-02
+818,Felipe Oliveira Fernandes,83503446945,felipe.fernandes818@email.com,São Paulo,SP,2024-07-02
+819,Juliana Carvalho Nascimento,83192134249,juliana.nascimento819@email.com,Caxias do Sul,RS,2021-07-29
+820,Eduarda Ribeiro Monteiro,65999497320,eduarda.monteiro820@email.com,São Paulo,SP,2025-05-24
+821,Henrique Rodrigues Oliveira,92227051028,henrique.oliveira821@email.com,Rio de Janeiro,RJ,2025-07-12
+822,Natália Gomes Machado,54813866675,natalia.machado822@email.com,Porto Alegre,RS,2022-10-01
+823,Camila Ribeiro Araújo,19324268774,camila.araujo823@email.com,Caxias do Sul,RS,2024-11-04
+824,Daniel Alves Gomes,52057563983,daniel.gomes824@email.com,São Paulo,SP,2023-02-23
+825,Lucas Costa Fortuna,37583094515,lucas.fortuna825@email.com,Criciúma,SC,2022-06-04
+826,Paula Silva Mendes,04760440907,paula.mendes826@email.com,Içara,SC,2024-05-29
+827,Vanessa Martins Rocha,78105092221,vanessa.rocha827@email.com,Joinville,SC,2023-05-10
+828,Camila Santos Souza,05184390552,camila.souza828@email.com,Porto Alegre,RS,2024-04-16
+829,Gustavo Fernandes Ribeiro,66013824127,gustavo.ribeiro829@email.com,Criciúma,SC,2021-04-02
+830,Isabela Mendes Rodrigues,86204485157,isabela.rodrigues830@email.com,Campinas,SP,2024-03-09
+831,Camila Damazio Oliveira,71112125902,camila.oliveira831@email.com,Curitiba,PR,2025-06-04
+832,Ana Rodrigues Hahn,71343240642,ana.hahn832@email.com,Araranguá,SC,2022-07-26
+833,Eduarda Monteiro Araújo,33432447417,eduarda.araujo833@email.com,Blumenau,SC,2022-12-29
+834,Sabrina Fernandes Fernandes,87209628936,sabrina.fernandes834@email.com,Rio de Janeiro,RJ,2022-12-12
+835,Vanessa Machado Lima,58841834374,vanessa.lima835@email.com,Tubarão,SC,2021-03-06
+836,Pedro Santos Ribeiro,27279559690,pedro.ribeiro836@email.com,São Paulo,SP,2022-10-23
+837,Beatriz Santos Hahn,02675512542,beatriz.hahn837@email.com,Araranguá,SC,2023-08-15
+838,Rafael Costa Silva,97996673459,rafael.silva838@email.com,Porto Alegre,RS,2022-11-23
+839,Otávio Machado Carvalho,03816649690,otavio.carvalho839@email.com,Içara,SC,2021-12-02
+840,Paula Costa Lima,83922501425,paula.lima840@email.com,Curitiba,PR,2023-07-29
+841,Mariana Costa Martins,23244123361,mariana.martins841@email.com,Criciúma,SC,2025-01-23
+842,Henrique Pereira Machado,50725178637,henrique.machado842@email.com,Caxias do Sul,RS,2024-09-30
+843,Mariana Martins Damazio,16252654696,mariana.damazio843@email.com,Tubarão,SC,2023-12-30
+844,Carla Fernandes Rocha,90392355580,carla.rocha844@email.com,São Paulo,SP,2024-06-04
+845,Thiago Carvalho Oliveira,32730346156,thiago.oliveira845@email.com,São Paulo,SP,2024-09-01
+846,Felipe Gomes Pereira,46704622681,felipe.pereira846@email.com,Içara,SC,2023-08-11
+847,Leonardo Oliveira Fernandes,16025298670,leonardo.fernandes847@email.com,São Paulo,SP,2023-09-23
+848,Vanessa Machado Carvalho,04641978575,vanessa.carvalho848@email.com,Blumenau,SC,2025-09-25
+849,Rafael Fernandes Santos,26861205943,rafael.santos849@email.com,Rio de Janeiro,RJ,2023-11-21
+850,Camila Mendes Fortuna,76074017750,camila.fortuna850@email.com,Belo Horizonte,MG,2025-12-27
+851,Thiago Machado Fernandes,65408424560,thiago.fernandes851@email.com,Içara,SC,2023-07-04
+852,Larissa Lima Hahn,91508632181,larissa.hahn852@email.com,Criciúma,SC,2021-09-16
+853,Gustavo Pereira Hahn,64579389701,gustavo.hahn853@email.com,Porto Alegre,RS,2022-10-31
+854,Lucas Souza Pereira,16815466024,lucas.pereira854@email.com,Curitiba,PR,2025-01-17
+855,Vanessa Fortuna Oliveira,61394498830,vanessa.oliveira855@email.com,Belo Horizonte,MG,2023-02-06
+856,Sabrina Rocha Rodrigues,64248096244,sabrina.rodrigues856@email.com,Rio de Janeiro,RJ,2021-01-11
+857,Matheus Rodrigues Silva,62447951330,matheus.silva857@email.com,Rio de Janeiro,RJ,2024-12-23
+858,Larissa Almeida Oliveira,49796958678,larissa.oliveira858@email.com,Curitiba,PR,2021-01-26
+859,Larissa Araújo Araújo,72773826460,larissa.araujo859@email.com,Araranguá,SC,2024-09-15
+860,Rodrigo Monteiro Oliveira,78513854457,rodrigo.oliveira860@email.com,São Paulo,SP,2024-10-13
+861,Natália Silva Pereira,92959660487,natalia.pereira861@email.com,Curitiba,PR,2022-04-26
+862,Mariana Alves Pereira,91163319422,mariana.pereira862@email.com,Blumenau,SC,2025-04-20
+863,Juliana Fortuna Carvalho,65369455158,juliana.carvalho863@email.com,Caxias do Sul,RS,2024-01-02
+864,Rafael Carvalho Almeida,67747226408,rafael.almeida864@email.com,Belo Horizonte,MG,2025-08-27
+865,Larissa Martins Hahn,16966630932,larissa.hahn865@email.com,Joinville,SC,2024-06-02
+866,Thiago Ribeiro Oliveira,96059329715,thiago.oliveira866@email.com,Curitiba,PR,2021-02-16
+867,Gustavo Mendes Hahn,88327532735,gustavo.hahn867@email.com,Blumenau,SC,2021-09-29
+868,João Oliveira Silva,97739732781,joao.silva868@email.com,Tubarão,SC,2025-07-04
+869,Thiago Araújo Costa,71006876164,thiago.costa869@email.com,Tubarão,SC,2025-12-15
+870,Beatriz Alves Santos,98077046056,beatriz.santos870@email.com,Campinas,SP,2025-01-07
+871,Pedro Ribeiro Hahn,76112491256,pedro.hahn871@email.com,São Paulo,SP,2024-09-06
+872,Larissa Pereira Almeida,73415177345,larissa.almeida872@email.com,Rio de Janeiro,RJ,2022-08-28
+873,Beatriz Martins Araújo,74949022840,beatriz.araujo873@email.com,Rio de Janeiro,RJ,2022-03-29
+874,Fernanda Fernandes Monteiro,44294774222,fernanda.monteiro874@email.com,Araranguá,SC,2024-05-29
+875,João Carvalho Nascimento,30394290458,joao.nascimento875@email.com,São Paulo,SP,2025-03-07
+876,Rodrigo Ribeiro Carvalho,92529858567,rodrigo.carvalho876@email.com,Porto Alegre,RS,2024-08-20
+877,Felipe Ribeiro Rocha,76015343324,felipe.rocha877@email.com,Joinville,SC,2024-05-31
+878,Juliana Fortuna Santos,35779083350,juliana.santos878@email.com,São Paulo,SP,2023-03-28
+879,Vanessa Santos Araújo,14888107983,vanessa.araujo879@email.com,Caxias do Sul,RS,2022-05-17
+880,Isabela Fortuna Costa,33720948413,isabela.costa880@email.com,Campinas,SP,2025-02-10
+881,Camila Oliveira Pereira,40333997718,camila.pereira881@email.com,Caxias do Sul,RS,2025-12-11
+882,Leonardo Souza Araújo,13717173189,leonardo.araujo882@email.com,Rio de Janeiro,RJ,2022-03-17
+883,Thiago Rocha Lima,09617399704,thiago.lima883@email.com,Curitiba,PR,2025-03-26
+884,Matheus Mendes Nascimento,25878444835,matheus.nascimento884@email.com,Porto Alegre,RS,2022-07-18
+885,Vinícius Alves Ribeiro,71270587722,vinicius.ribeiro885@email.com,Içara,SC,2021-05-15
+886,Juliana Gomes Machado,17582313348,juliana.machado886@email.com,Içara,SC,2022-09-18
+887,Larissa Ribeiro Rocha,49392523622,larissa.rocha887@email.com,Florianópolis,SC,2024-06-03
+888,Vinícius Costa Araújo,79643474524,vinicius.araujo888@email.com,Caxias do Sul,RS,2022-11-15
+889,Gustavo Fernandes Fortuna,74696606065,gustavo.fortuna889@email.com,Araranguá,SC,2024-08-15
+890,Leonardo Pereira Martins,40334450566,leonardo.martins890@email.com,Rio de Janeiro,RJ,2022-10-30
+891,Rafael Alves Fortuna,39874113257,rafael.fortuna891@email.com,Tubarão,SC,2025-01-17
+892,Sabrina Rocha Souza,67349960105,sabrina.souza892@email.com,Rio de Janeiro,RJ,2022-07-20
+893,Rafael Fernandes Martins,17215622949,rafael.martins893@email.com,Içara,SC,2022-02-14
+894,Rafael Oliveira Martins,59848840215,rafael.martins894@email.com,Tubarão,SC,2025-10-14
+895,Lucas Martins Fortuna,25737553449,lucas.fortuna895@email.com,Tubarão,SC,2025-03-12
+896,Pedro Silva Pereira,66670808509,pedro.pereira896@email.com,Florianópolis,SC,2023-06-15
+897,Bruno Ribeiro Araújo,87495119181,bruno.araujo897@email.com,Rio de Janeiro,RJ,2023-12-26
+898,Felipe Ribeiro Oliveira,79316477251,felipe.oliveira898@email.com,Curitiba,PR,2022-01-08
+899,Vanessa Monteiro Araújo,86069409600,vanessa.araujo899@email.com,Porto Alegre,RS,2022-04-07
+900,Larissa Gomes Pereira,39587395923,larissa.pereira900@email.com,Içara,SC,2025-05-03
+901,Eduarda Rodrigues Lima,10890285155,eduarda.lima901@email.com,Joinville,SC,2022-04-17
+902,Vinícius Rodrigues Rodrigues,26433502716,vinicius.rodrigues902@email.com,Içara,SC,2021-02-22
+903,Natália Fortuna Fortuna,60776336911,natalia.fortuna903@email.com,Tubarão,SC,2021-12-25
+904,Paula Monteiro Fortuna,12317955633,paula.fortuna904@email.com,Caxias do Sul,RS,2021-07-05
+905,Leonardo Ribeiro Fernandes,48170066615,leonardo.fernandes905@email.com,Porto Alegre,RS,2023-01-09
+906,João Oliveira Gomes,43167045023,joao.gomes906@email.com,Belo Horizonte,MG,2021-12-30
+907,Sabrina Silva Pereira,22700934596,sabrina.pereira907@email.com,Caxias do Sul,RS,2025-08-14
+908,Felipe Gomes Costa,82251207346,felipe.costa908@email.com,Joinville,SC,2024-07-04
+909,Lucas Nascimento Mendes,00507026086,lucas.mendes909@email.com,Araranguá,SC,2025-04-11
+910,Thiago Fortuna Ribeiro,21053161177,thiago.ribeiro910@email.com,Joinville,SC,2023-05-01
+911,Rodrigo Alves Martins,90477425859,rodrigo.martins911@email.com,Joinville,SC,2024-09-30
+912,Beatriz Santos Rocha,93238223116,beatriz.rocha912@email.com,Porto Alegre,RS,2022-08-02
+913,Fernanda Mendes Santos,34245798894,fernanda.santos913@email.com,Tubarão,SC,2025-04-06
+914,Fernanda Pereira Araújo,52906032020,fernanda.araujo914@email.com,Blumenau,SC,2025-09-07
+915,Leonardo Almeida Costa,50977539673,leonardo.costa915@email.com,Blumenau,SC,2023-07-18
+916,Thiago Nascimento Alves,14855245787,thiago.alves916@email.com,Porto Alegre,RS,2024-09-20
+917,Daniel Machado Araújo,84156082137,daniel.araujo917@email.com,Rio de Janeiro,RJ,2025-08-27
+918,Daniel Santos Alves,42547681826,daniel.alves918@email.com,Campinas,SP,2025-08-07
+919,Fernanda Ribeiro Rodrigues,30358929880,fernanda.rodrigues919@email.com,Joinville,SC,2025-06-27
+920,Rafael Fernandes Alves,82521293289,rafael.alves920@email.com,Tubarão,SC,2023-05-19
+921,Rodrigo Rodrigues Nascimento,64686775240,rodrigo.nascimento921@email.com,Criciúma,SC,2021-06-03
+922,Isabela Damazio Alves,43991062272,isabela.alves922@email.com,São Paulo,SP,2025-04-15
+923,Leonardo Almeida Carvalho,26693351342,leonardo.carvalho923@email.com,Rio de Janeiro,RJ,2023-04-03
+924,Daniel Fortuna Fortuna,23724501848,daniel.fortuna924@email.com,Curitiba,PR,2021-07-30
+925,Juliana Hahn Mendes,37418972154,juliana.mendes925@email.com,Porto Alegre,RS,2021-03-25
+926,Mariana Nascimento Santos,76927438119,mariana.santos926@email.com,São Paulo,SP,2024-05-11
+927,Rodrigo Fernandes Almeida,76601444856,rodrigo.almeida927@email.com,Belo Horizonte,MG,2024-09-27
+928,Camila Nascimento Fernandes,01739739641,camila.fernandes928@email.com,Florianópolis,SC,2025-05-19
+929,Camila Damazio Rocha,99698609191,camila.rocha929@email.com,Caxias do Sul,RS,2024-03-24
+930,Daniel Santos Almeida,99660577980,daniel.almeida930@email.com,Araranguá,SC,2023-03-28
+931,Camila Hahn Fortuna,60392051460,camila.fortuna931@email.com,Rio de Janeiro,RJ,2025-02-02
+932,Natália Nascimento Fernandes,55347057423,natalia.fernandes932@email.com,Belo Horizonte,MG,2024-02-18
+933,Juliana Alves Hahn,65271559835,juliana.hahn933@email.com,Araranguá,SC,2025-08-25
+934,João Santos Fortuna,65972634755,joao.fortuna934@email.com,Florianópolis,SC,2025-07-09
+935,Natália Fernandes Costa,50139488488,natalia.costa935@email.com,Joinville,SC,2021-12-31
+936,Mariana Mendes Damazio,31196425856,mariana.damazio936@email.com,Florianópolis,SC,2021-09-30
+937,Pedro Carvalho Santos,49915370382,pedro.santos937@email.com,Belo Horizonte,MG,2024-09-29
+938,Isabela Silva Rocha,33373204309,isabela.rocha938@email.com,Tubarão,SC,2023-09-17
+939,Camila Martins Gomes,89362896964,camila.gomes939@email.com,Caxias do Sul,RS,2024-12-18
+940,Leonardo Fernandes Nascimento,55358512538,leonardo.nascimento940@email.com,Blumenau,SC,2024-03-31
+941,Eduarda Santos Ribeiro,78519358374,eduarda.ribeiro941@email.com,Campinas,SP,2024-03-22
+942,Camila Souza Martins,77961208780,camila.martins942@email.com,Curitiba,PR,2022-12-13
+943,Otávio Damazio Pereira,51494097626,otavio.pereira943@email.com,Florianópolis,SC,2022-03-17
+944,Vinícius Martins Lima,45398628950,vinicius.lima944@email.com,Caxias do Sul,RS,2024-06-02
+945,Bruno Damazio Fernandes,11918623392,bruno.fernandes945@email.com,Curitiba,PR,2025-09-08
+946,Felipe Silva Hahn,15116966672,felipe.hahn946@email.com,Porto Alegre,RS,2025-10-02
+947,Larissa Costa Santos,52647124633,larissa.santos947@email.com,Içara,SC,2022-12-21
+948,Vanessa Hahn Oliveira,71840908051,vanessa.oliveira948@email.com,Araranguá,SC,2021-12-12
+949,Ana Ribeiro Silva,56409951239,ana.silva949@email.com,Criciúma,SC,2023-10-18
+950,Felipe Alves Rodrigues,12959272827,felipe.rodrigues950@email.com,Araranguá,SC,2021-03-04
+951,Thiago Souza Alves,14415298217,thiago.alves951@email.com,Rio de Janeiro,RJ,2022-01-31
+952,Thiago Pereira Mendes,78671815352,thiago.mendes952@email.com,Araranguá,SC,2022-05-06
+953,Camila Rocha Rodrigues,60507918158,camila.rodrigues953@email.com,Rio de Janeiro,RJ,2024-02-28
+954,Sabrina Damazio Alves,68345273466,sabrina.alves954@email.com,Caxias do Sul,RS,2023-06-11
+955,Mariana Oliveira Rocha,71587964740,mariana.rocha955@email.com,Criciúma,SC,2023-12-17
+956,Camila Souza Rodrigues,49982508004,camila.rodrigues956@email.com,Florianópolis,SC,2023-02-28
+957,Gabriela Fernandes Alves,68828503172,gabriela.alves957@email.com,Criciúma,SC,2022-03-30
+958,Beatriz Araújo Oliveira,37399006314,beatriz.oliveira958@email.com,Campinas,SP,2021-01-10
+959,Fernanda Almeida Machado,52635602293,fernanda.machado959@email.com,Belo Horizonte,MG,2024-06-27
+960,Vinícius Nascimento Gomes,94346066643,vinicius.gomes960@email.com,São Paulo,SP,2025-07-31
+961,Juliana Rocha Nascimento,06072311127,juliana.nascimento961@email.com,Curitiba,PR,2021-05-17
+962,Felipe Alves Araújo,46484494116,felipe.araujo962@email.com,Joinville,SC,2025-08-13
+963,Fernanda Rodrigues Oliveira,73280771130,fernanda.oliveira963@email.com,Caxias do Sul,RS,2025-09-03
+964,Mariana Costa Oliveira,13695727908,mariana.oliveira964@email.com,Rio de Janeiro,RJ,2025-04-20
+965,Gabriela Rodrigues Fortuna,09025425730,gabriela.fortuna965@email.com,Araranguá,SC,2023-03-13
+966,Mariana Pereira Lima,13235707139,mariana.lima966@email.com,Caxias do Sul,RS,2023-12-19
+967,João Alves Costa,85011688092,joao.costa967@email.com,Joinville,SC,2025-01-22
+968,Pedro Araújo Fernandes,21306090691,pedro.fernandes968@email.com,Criciúma,SC,2025-10-22
+969,Henrique Hahn Souza,81079649673,henrique.souza969@email.com,Curitiba,PR,2024-10-30
+970,Otávio Mendes Nascimento,77278532426,otavio.nascimento970@email.com,Araranguá,SC,2022-06-11
+971,Fernanda Costa Fernandes,06420768362,fernanda.fernandes971@email.com,Campinas,SP,2025-09-17
+972,Vanessa Fernandes Rodrigues,66777675556,vanessa.rodrigues972@email.com,Blumenau,SC,2021-09-30
+973,Gustavo Ribeiro Rodrigues,33939578654,gustavo.rodrigues973@email.com,Tubarão,SC,2022-03-14
+974,Mariana Pereira Rocha,87496033582,mariana.rocha974@email.com,Florianópolis,SC,2024-09-12
+975,Mariana Ribeiro Gomes,70369249269,mariana.gomes975@email.com,Joinville,SC,2025-05-21
+976,Leonardo Rodrigues Pereira,57327599801,leonardo.pereira976@email.com,Blumenau,SC,2025-05-31
+977,Carla Oliveira Silva,05155323415,carla.silva977@email.com,Criciúma,SC,2024-06-30
+978,Pedro Araújo Monteiro,77524418222,pedro.monteiro978@email.com,Belo Horizonte,MG,2023-05-01
+979,Daniel Alves Mendes,28874312710,daniel.mendes979@email.com,Blumenau,SC,2021-10-05
+980,Fernanda Carvalho Rocha,72095799270,fernanda.rocha980@email.com,Blumenau,SC,2023-10-05
+981,Vinícius Monteiro Fernandes,15122946213,vinicius.fernandes981@email.com,Araranguá,SC,2024-07-22
+982,Larissa Lima Damazio,15970996254,larissa.damazio982@email.com,Rio de Janeiro,RJ,2022-01-29
+983,Paula Nascimento Ribeiro,75203447650,paula.ribeiro983@email.com,Criciúma,SC,2022-07-13
+984,Gustavo Machado Martins,15802909046,gustavo.martins984@email.com,São Paulo,SP,2022-02-13
+985,Fernanda Rocha Carvalho,04655866525,fernanda.carvalho985@email.com,Blumenau,SC,2025-01-12
+986,Isabela Alves Rodrigues,44171581021,isabela.rodrigues986@email.com,Porto Alegre,RS,2022-05-13
+987,Carla Costa Fernandes,29311005912,carla.fernandes987@email.com,Florianópolis,SC,2024-04-08
+988,Vanessa Martins Hahn,51910231211,vanessa.hahn988@email.com,Belo Horizonte,MG,2021-01-08
+989,Matheus Machado Almeida,01658373792,matheus.almeida989@email.com,Tubarão,SC,2023-08-19
+990,João Fortuna Machado,07280123428,joao.machado990@email.com,Curitiba,PR,2024-03-24
+991,Gabriela Damazio Santos,13253269496,gabriela.santos991@email.com,Campinas,SP,2023-11-04
+992,Vanessa Lima Rodrigues,45380442101,vanessa.rodrigues992@email.com,Blumenau,SC,2023-10-09
+993,Lucas Fortuna Souza,61701595919,lucas.souza993@email.com,Curitiba,PR,2022-06-22
+994,Gustavo Araújo Martins,75747583392,gustavo.martins994@email.com,Araranguá,SC,2021-03-29
+995,Beatriz Fernandes Gomes,75677722660,beatriz.gomes995@email.com,Porto Alegre,RS,2025-11-24
+996,Eduarda Araújo Carvalho,26506229231,eduarda.carvalho996@email.com,Belo Horizonte,MG,2021-02-03
+997,Mariana Rocha Pereira,53076248433,mariana.pereira997@email.com,Içara,SC,2023-09-24
+998,Thiago Fortuna Rocha,62705115794,thiago.rocha998@email.com,Blumenau,SC,2021-10-17
+999,Henrique Ribeiro Rocha,36704254969,henrique.rocha999@email.com,Rio de Janeiro,RJ,2021-09-07
+1000,Thiago Pereira Ribeiro,55259710756,thiago.ribeiro1000@email.com,Içara,SC,2022-05-20

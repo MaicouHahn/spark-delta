@@ -1,0 +1,9 @@
+# Plano B para o MinIO: em vez de baixar a imagem, compila localmente.
+# Uso:
+#   docker compose -f docker-compose.yml -f docker-compose.minio-build.yml up -d --build
+services:
+  minio:
+    image: minio-local:RELEASE.2025-02-03T21-03-04Z
+    build:
+      context: ./docker/minio
+    pull_policy: build
