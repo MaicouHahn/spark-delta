@@ -4,7 +4,7 @@ Pipeline de dados que **extrai todas as tabelas de um SQL Server**, grava como *
 
 Continuação do [Trabalho 1](https://github.com/MaicouHahn/Pyspark-Jupyter): o cenário de **Controle de Estoque** da loja de eletrônicos agora vem de um banco relacional (`LojaDB`), e as DMLs do Trabalho 1 são reproduzidas sobre a camada bronze.
 
-📘 **Documentação (MkDocs):** https://maicouhahn.github.io/spark-delta/
+📘 **Documentação (MkDocs):** [https://maicouhahn.github.io/spark-delta/](https://maicouhahn.github.io/spark-delta/)
 
 > Este README é o **passo a passo para reproduzir o ambiente**. As explicações sobre o cenário, as tecnologias e cada etapa estão na documentação MkDocs.
 
